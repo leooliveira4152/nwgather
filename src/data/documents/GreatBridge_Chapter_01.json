@@ -1,0 +1,62 @@
+[
+	{
+		"body": "GreatBridge_Body_01_05",
+		"chapter": "GreatBridge_Chapter_01",
+		"pageNumber": 5,
+		"title": "GreatBridge_Title_01_05",
+		"topic": "Topic_03_GreatCleave",
+		"u": 1622458385596,
+		"x": 9984,
+		"y": 8024
+	},
+	{
+		"body": "GreatBridge_Body_01_06",
+		"chapter": "GreatBridge_Chapter_01",
+		"pageNumber": 6,
+		"title": "GreatBridge_Title_01_06",
+		"topic": "Topic_03_GreatCleave",
+		"u": 1622458438040,
+		"x": 10093.659,
+		"y": 8032.572
+	},
+	{
+		"body": "GreatBridge_Body_01_04",
+		"chapter": "GreatBridge_Chapter_01",
+		"pageNumber": 4,
+		"title": "GreatBridge_Title_01_04",
+		"topic": "Topic_03_GreatCleave",
+		"u": 1622461962993,
+		"x": 9711.696,
+		"y": 6661.697
+	},
+	{
+		"body": "GreatBridge_Body_01_03",
+		"chapter": "GreatBridge_Chapter_01",
+		"pageNumber": 3,
+		"title": "GreatBridge_Title_01_03",
+		"topic": "Topic_03_GreatCleave",
+		"u": 1622462642223,
+		"x": 9755.938,
+		"y": 6655.327
+	},
+	{
+		"body": "GreatBridge_Body_01_02",
+		"chapter": "GreatBridge_Chapter_01",
+		"pageNumber": 2,
+		"title": "GreatBridge_Title_01_02",
+		"topic": "Topic_03_GreatCleave",
+		"u": 1622462619171,
+		"x": 9784.528,
+		"y": 6643.561
+	},
+	{
+		"body": "GreatBridge_Body_01_01",
+		"chapter": "GreatBridge_Chapter_01",
+		"pageNumber": 1,
+		"title": "GreatBridge_Title_01_01",
+		"topic": "Topic_03_GreatCleave",
+		"u": 1622462445420,
+		"x": 9817.285,
+		"y": 6638.473
+	}
+]

@@ -1,0 +1,81 @@
+[
+	{
+		"body": "AnonymousManuscripts_Body_03_04",
+		"chapter": "AnonymousManuscripts_Chapter_03",
+		"pageNumber": 4,
+		"title": "AnonymousManuscripts_Title_03_04",
+		"topic": "Topic_12_MonarchsBluffs",
+		"u": 1621666954501,
+		"x": 7871.744,
+		"y": 3078.602
+	},
+	{
+		"body": "AnonymousManuscripts_Body_03_05",
+		"chapter": "AnonymousManuscripts_Chapter_03",
+		"pageNumber": 5,
+		"title": "AnonymousManuscripts_Title_03_05",
+		"topic": "Topic_12_MonarchsBluffs",
+		"u": 1622204188207,
+		"x": 8128.746,
+		"y": 3873.367
+	},
+	{
+		"body": "AnonymousManuscripts_Body_03_10",
+		"chapter": "AnonymousManuscripts_Chapter_03",
+		"pageNumber": 10,
+		"title": "AnonymousManuscripts_Title_03_10",
+		"topic": "Topic_12_MonarchsBluffs",
+		"u": 1621703894538,
+		"x": 8241.473,
+		"y": 3849.574
+	},
+	{
+		"body": "AnonymousManuscripts_Body_03_09",
+		"chapter": "AnonymousManuscripts_Chapter_03",
+		"pageNumber": 9,
+		"title": "AnonymousManuscripts_Title_03_09",
+		"topic": "Topic_12_MonarchsBluffs",
+		"u": 1621710400468,
+		"x": 8458.646,
+		"y": 3597.316
+	},
+	{
+		"body": "AnonymousManuscripts_Body_03_07",
+		"chapter": "AnonymousManuscripts_Chapter_03",
+		"pageNumber": 7,
+		"title": "AnonymousManuscripts_Title_03_07",
+		"topic": "Topic_12_MonarchsBluffs",
+		"u": 1622121927710,
+		"x": 8507.014,
+		"y": 3273.678
+	},
+	{
+		"body": "AnonymousManuscripts_Body_03_03",
+		"chapter": "AnonymousManuscripts_Chapter_03",
+		"pageNumber": 3,
+		"title": "AnonymousManuscripts_Title_03_03",
+		"topic": "Topic_12_MonarchsBluffs",
+		"u": 1621666640614,
+		"x": 7854.393,
+		"y": 3212.927
+	},
+	{
+		"body": "AnonymousManuscripts_Body_03_01",
+		"chapter": "AnonymousManuscripts_Chapter_03",
+		"pageNumber": 1,
+		"title": "AnonymousManuscripts_Title_03_01",
+		"topic": "Topic_12_MonarchsBluffs",
+		"u": 1621712126937,
+		"x": 7907.875,
+		"y": 3185.428
+	},
+	{
+		"body": "AnonymousManuscripts_Body_03_02",
+		"chapter": "AnonymousManuscripts_Chapter_03",
+		"pageNumber": 2,
+		"title": "AnonymousManuscripts_Title_03_02",
+		"topic": "Topic_12_MonarchsBluffs",
+		"x": 7734.478,
+		"y": 3433.359
+	}
+]

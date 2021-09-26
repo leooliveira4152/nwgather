@@ -1,0 +1,92 @@
+[
+	{
+		"body": "TideBattle_Body_01_01",
+		"chapter": "TideBattle_Chapter_01",
+		"pageNumber": 1,
+		"title": "TideBattle_Title_01_01",
+		"topic": "Topic_03_GreatCleave",
+		"x": 9544.572,
+		"y": 7566.834
+	},
+	{
+		"body": "TideBattle_Body_01_02",
+		"chapter": "TideBattle_Chapter_01",
+		"pageNumber": 2,
+		"title": "TideBattle_Title_01_02",
+		"topic": "Topic_03_GreatCleave",
+		"x": 9552.508,
+		"y": 7568.147
+	},
+	{
+		"body": "TideBattle_Body_01_03",
+		"chapter": "TideBattle_Chapter_01",
+		"pageNumber": 3,
+		"title": "TideBattle_Title_01_03",
+		"topic": "Topic_03_GreatCleave",
+		"x": 9576.643,
+		"y": 7555.93
+	},
+	{
+		"body": "TideBattle_Body_01_04",
+		"chapter": "TideBattle_Chapter_01",
+		"pageNumber": 4,
+		"title": "TideBattle_Title_01_04",
+		"topic": "Topic_03_GreatCleave",
+		"x": 9555.722,
+		"y": 7574.887
+	},
+	{
+		"body": "TideBattle_Body_01_05",
+		"chapter": "TideBattle_Chapter_01",
+		"pageNumber": 5,
+		"title": "TideBattle_Title_01_05",
+		"topic": "Topic_03_GreatCleave",
+		"x": 9537.38,
+		"y": 7535.218
+	},
+	{
+		"body": "TideBattle_Body_01_06",
+		"chapter": "TideBattle_Chapter_01",
+		"pageNumber": 6,
+		"title": "TideBattle_Title_01_06",
+		"topic": "Topic_03_GreatCleave",
+		"x": 9549.341,
+		"y": 7533.553
+	},
+	{
+		"body": "TideBattle_Body_01_07",
+		"chapter": "TideBattle_Chapter_01",
+		"pageNumber": 7,
+		"title": "TideBattle_Title_01_07",
+		"topic": "Topic_03_GreatCleave",
+		"x": 9556.062,
+		"y": 7534.549
+	},
+	{
+		"body": "TideBattle_Body_01_08",
+		"chapter": "TideBattle_Chapter_01",
+		"pageNumber": 8,
+		"title": "TideBattle_Title_01_08",
+		"topic": "Topic_03_GreatCleave",
+		"x": 9553.223,
+		"y": 7527.659
+	},
+	{
+		"body": "TideBattle_Body_01_09",
+		"chapter": "TideBattle_Chapter_01",
+		"pageNumber": 9,
+		"title": "TideBattle_Title_01_09",
+		"topic": "Topic_03_GreatCleave",
+		"x": 9521.415,
+		"y": 7530.377
+	},
+	{
+		"body": "TideBattle_Body_01_10",
+		"chapter": "TideBattle_Chapter_01",
+		"pageNumber": 10,
+		"title": "TideBattle_Title_01_10",
+		"topic": "Topic_03_GreatCleave",
+		"x": 9504.167,
+		"y": 7535.495
+	}
+]

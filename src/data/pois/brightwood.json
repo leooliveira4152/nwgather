@@ -1,0 +1,252 @@
+[
+	{
+		"icon": "abandonedcity",
+		"name": "ui_poi_legion_burial_site_20406",
+		"x": -10000,
+		"y": -10000
+	},
+	{
+		"icon": "township",
+		"name": "ui_poi_town_brightwood",
+		"u": 1622357000854,
+		"x": 9565.524,
+		"y": 6329.55
+	},
+	{
+		"icon": "fortress",
+		"name": "ui_poi_fort_brightwood",
+		"u": 1622357014585,
+		"x": 8907,
+		"y": 5781
+	},
+	{
+		"icon": "abandoned_farm_village",
+		"name": "ui_poi_haunted_farm_40255",
+		"u": 1622627393815,
+		"x": 9350.837,
+		"y": 5594.987
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_haunted_village_40257",
+		"u": 1622530522938,
+		"x": 9125.337,
+		"y": 5376.049
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_haunted_graveyard_40258",
+		"u": 1622531108716,
+		"x": 9218.964,
+		"y": 5301.88
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_haunted_church_40259",
+		"u": 1622530775041,
+		"x": 9060.844,
+		"y": 5302.296
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_haunted_village_40256",
+		"u": 1622530516292,
+		"x": 9021.572,
+		"y": 5462.566
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_haunted_church_40328",
+		"u": 1622464605172,
+		"x": 9967.504,
+		"y": 6541.325
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_haunted_village_40310",
+		"u": 1622461859548,
+		"x": 9784.716,
+		"y": 6592.176
+	},
+	{
+		"icon": "damned_mine",
+		"name": "ui_poi_corrupted_mine_40306",
+		"u": 1622400147502,
+		"x": 9111.331,
+		"y": 6197.606
+	},
+	{
+		"icon": "lumbermill",
+		"name": "ui_poi_lumbermill_40202",
+		"u": 1622527983208,
+		"x": 9179.715,
+		"y": 5905.567
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_haunted_graveyard_40264",
+		"u": 1622652955316,
+		"x": 8588.278,
+		"y": 6099.505
+	},
+	{
+		"icon": "graveyard",
+		"name": "ui_poi_graveyard_40327",
+		"u": 1622746391991,
+		"x": 8458.087,
+		"y": 6188.13
+	},
+	{
+		"icon": "azure_tree",
+		"name": "ui_poi_roots_of_pain",
+		"u": 1622547839309,
+		"x": 9730.586,
+		"y": 5757.896
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_haunted_graveyard_40252",
+		"u": 1623145873519,
+		"x": 9817.783,
+		"y": 5308.63
+	},
+	{
+		"icon": "abandoned_farm_village",
+		"name": "ui_poi_haunted_farm_40251",
+		"u": 1623145864847,
+		"x": 9765.411,
+		"y": 5215.606
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_haunted_village_40210",
+		"u": 1622977071632,
+		"x": 9929.026,
+		"y": 5471.242
+	},
+	{
+		"icon": "cave",
+		"name": "ui_poi_dryad_cavern_40229",
+		"u": 1622977060850,
+		"x": 10020.916,
+		"y": 5108.208
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_haunted_village_40261",
+		"u": 1622479493439,
+		"x": 8343.721,
+		"y": 5806.107
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_haunted_village_40250",
+		"x": 9751.438,
+		"y": 5034.26
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_haunted_village_40249",
+		"u": 1623228474624,
+		"x": 9615.265,
+		"y": 5131.561
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_haunted_village_40254",
+		"u": 1622791415406,
+		"x": 9869.596,
+		"y": 6050.774
+	},
+	{
+		"icon": "cave",
+		"name": "ui_poi_dryad_cavern_40248",
+		"u": 1622977059650,
+		"x": 10107,
+		"y": 5092
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_haunted_church_40260",
+		"u": 1622480869366,
+		"x": 8509.5,
+		"y": 5804.5
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_haunted_village_40263",
+		"u": 1622747316864,
+		"x": 8456.25,
+		"y": 6022
+	},
+	{
+		"icon": "damned_campsite",
+		"name": "ui_poi_corrupted_camp_40336",
+		"u": 1622397876845,
+		"x": 8871,
+		"y": 6231
+	},
+	{
+		"icon": "damned_campsite",
+		"name": "ui_poi_corrupted_camp_40335",
+		"u": 1622358006693,
+		"x": 9321,
+		"y": 6419.5
+	},
+	{
+		"icon": "bear_den",
+		"name": "ui_poi_bear_den_50391",
+		"u": 1622563470739,
+		"x": 10510,
+		"y": 6320
+	},
+	{
+		"icon": "fort",
+		"name": "ui_poi_soulwarden_camp_50392",
+		"u": 1622444249129,
+		"x": 9175.88,
+		"y": 6515.564
+	},
+	{
+		"icon": "cave",
+		"name": "ui_poi_bear_cave_40321",
+		"u": 1622442446391,
+		"x": 8809.88,
+		"y": 6449.416
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_haunted_village_40262",
+		"u": 1622480814435,
+		"x": 8300,
+		"y": 5629.255
+	},
+	{
+		"icon": "angryearth_grove",
+		"name": "ui_poi_green_defile_40268",
+		"u": 1622977226305,
+		"x": 10106.601,
+		"y": 5200
+	},
+	{
+		"icon": "ancient_buttress",
+		"name": "ui_poi_dryad_ruins_40214",
+		"u": 1623140404006,
+		"x": 10115.245,
+		"y": 4900
+	},
+	{
+		"icon": "azure_tree",
+		"name": "ui_poi_azure_tree",
+		"u": 1623140515856,
+		"x": 10027.167,
+		"y": 4800
+	},
+	{
+		"icon": "abandoned_village_elite",
+		"name": "ui_poi_brightwoodsisle_40221",
+		"u": 1623568777551,
+		"x": 9597,
+		"y": 5479.5
+	}
+]

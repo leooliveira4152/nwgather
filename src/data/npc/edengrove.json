@@ -1,0 +1,140 @@
+[
+	{
+		"icon": "generic",
+		"name": "9902b_MSQ_Adiana",
+		"u": 1627675491366,
+		"x": 11333.788,
+		"y": 6991.795
+	},
+	{
+		"icon": "generic",
+		"name": "9904d_MSQ_Theophrastus",
+		"u": 1627675769346,
+		"x": 11382.385,
+		"y": 7021.739
+	},
+	{
+		"icon": "generic",
+		"name": "9906_MSQ_Shamaness",
+		"u": 1627685142582,
+		"x": 11793.435,
+		"y": 7117.189
+	},
+	{
+		"icon": "generic",
+		"name": "1412_Watcher",
+		"x": 12053.079,
+		"y": 8527.499
+	},
+	{
+		"icon": "generic",
+		"name": "1413_Watcher",
+		"x": 12078.24,
+		"y": 8524.421
+	},
+	{
+		"icon": "generic",
+		"name": "1417_Warden",
+		"x": 12076.843,
+		"y": 8507.33
+	},
+	{
+		"icon": "inn",
+		"name": "1423_innkeep",
+		"x": 12086.677,
+		"y": 8505.91
+	},
+	{
+		"icon": "generic",
+		"name": "1407_Commander",
+		"x": 11153.455,
+		"y": 7303.899
+	},
+	{
+		"icon": "generic",
+		"name": "1408_Alchemist",
+		"x": 11128.7,
+		"y": 7289.8
+	},
+	{
+		"icon": "generic",
+		"name": "1409_Adjudicator",
+		"x": 11143.3,
+		"y": 7323.4
+	},
+	{
+		"icon": "generic",
+		"name": "1414_Watcher",
+		"x": 11164.677,
+		"y": 7310.79
+	},
+	{
+		"icon": "generic",
+		"name": "1415_Watcher",
+		"x": 11139.111,
+		"y": 7332.209
+	},
+	{
+		"icon": "generic",
+		"name": "1416_Warden",
+		"x": 11147.987,
+		"y": 7300.255
+	},
+	{
+		"icon": "generic",
+		"name": "1418_Ranger",
+		"u": 1629946543364,
+		"x": 11152.744,
+		"y": 7318.357
+	},
+	{
+		"icon": "generic",
+		"name": "1419_Ranger",
+		"x": 11130.058,
+		"y": 7308.219
+	},
+	{
+		"icon": "generic",
+		"name": "1420_Ranger",
+		"x": 11918.229,
+		"y": 7826.888
+	},
+	{
+		"icon": "generic",
+		"name": "1421_Ranger",
+		"x": 10676.358,
+		"y": 7856.53
+	},
+	{
+		"icon": "inn",
+		"name": "1422_innkeep",
+		"x": 11162.644,
+		"y": 7292.978
+	},
+	{
+		"icon": "generic",
+		"name": "1424_Fisher",
+		"x": 11522.752,
+		"y": 7610.819
+	},
+	{
+		"icon": "generic",
+		"name": "1425_Prospector",
+		"x": 11125.05,
+		"y": 7297.881
+	},
+	{
+		"icon": "generic",
+		"name": "1403_Survivalist",
+		"u": 1624452767655,
+		"x": 12072.439,
+		"y": 8502.334
+	},
+	{
+		"icon": "generic",
+		"name": "1403_Survivalist",
+		"u": 1624453869913,
+		"x": 11137,
+		"y": 7301
+	}
+]

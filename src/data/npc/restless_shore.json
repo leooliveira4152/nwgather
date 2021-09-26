@@ -1,0 +1,81 @@
+[
+	{
+		"icon": "generic",
+		"name": "9903d_MSQ_Emile",
+		"u": 1627675245556,
+		"x": 13042.75,
+		"y": 4428.7255859375
+	},
+	{
+		"icon": "covenant",
+		"name": "1509_Adjudicator",
+		"x": 13050.816,
+		"y": 4398.064
+	},
+	{
+		"icon": "generic",
+		"name": "1504_Overseer",
+		"x": 12994.237,
+		"y": 4380.345
+	},
+	{
+		"icon": "generic",
+		"name": "1506_Trader",
+		"x": 13002.834,
+		"y": 4438.76
+	},
+	{
+		"icon": "generic",
+		"name": "1502_Magistrate",
+		"x": 12995.675,
+		"y": 4437.576
+	},
+	{
+		"icon": "generic",
+		"name": "1505_Artificer",
+		"x": 13001.547,
+		"y": 4491.105
+	},
+	{
+		"icon": "marauder",
+		"name": "1507_Commander",
+		"x": 12980.59,
+		"y": 4503.051
+	},
+	{
+		"icon": "syndicate",
+		"name": "1508_Alchemist",
+		"x": 12950.761,
+		"y": 4459.674
+	},
+	{
+		"icon": "generic",
+		"name": "1503_Survivalist",
+		"x": 12960.059,
+		"y": 4441.039
+	},
+	{
+		"icon": "generic",
+		"name": "1510_Barkeep",
+		"x": 13038.678,
+		"y": 4442.51
+	},
+	{
+		"icon": "inn",
+		"name": "1522_innkeep",
+		"x": 12983.151,
+		"y": 4425.174
+	},
+	{
+		"icon": "generic",
+		"name": "1523_Fisher",
+		"x": 13776.727,
+		"y": 4731.064
+	},
+	{
+		"icon": "generic",
+		"name": "1599_Nekumanesh",
+		"x": 13442.389,
+		"y": 5333.291
+	}
+]

@@ -1,0 +1,298 @@
+[
+	{
+		"icon": "outpost",
+		"name": "ui_poi_outpost_53_1_50334",
+		"x": 11137.43,
+		"y": 7310.802
+	},
+	{
+		"icon": "outpost",
+		"name": "ui_poi_crater_corruptedsettlement_50410",
+		"x": 12073.628,
+		"y": 8522.11
+	},
+	{
+		"icon": "angryearth_ruins",
+		"name": "ui_poi_crater_feralarchway_50342",
+		"u": 1624211599629,
+		"x": 10763.771,
+		"y": 7035.794
+	},
+	{
+		"icon": "damned_mine",
+		"name": "ui_poi_crater_corruptedminewest_50332",
+		"x": 11147.407,
+		"y": 6772.218
+	},
+	{
+		"icon": "angryearth_cave",
+		"name": "ui_poi_crater_brutalburrow_50403",
+		"u": 1624204000351,
+		"x": 10885,
+		"y": 8610
+	},
+	{
+		"icon": "angryearth_grove",
+		"name": "ui_poi_crater_brutalreach_50307",
+		"u": 1624204590552,
+		"x": 10865,
+		"y": 7579
+	},
+	{
+		"icon": "angryearth_grove",
+		"name": "ui_poi_crater_brutalthicket_50310",
+		"u": 1624204554251,
+		"x": 10786,
+		"y": 7824
+	},
+	{
+		"icon": "azure_tree",
+		"name": "ui_poi_crater_mysticfen_50317",
+		"u": 1624205449618,
+		"x": 11015.5,
+		"y": 8163.5
+	},
+	{
+		"icon": "angryearth_ruins",
+		"name": "ui_poi_crater_mysticbridge_50367",
+		"u": 1624205635386,
+		"x": 11302,
+		"y": 8128
+	},
+	{
+		"icon": "angryearth_ruins",
+		"name": "ui_poi_crater_mysticruins_50366",
+		"u": 1624205633728,
+		"x": 11111.5,
+		"y": 8030
+	},
+	{
+		"icon": "ancient_spite",
+		"name": "ui_poi_crater_spite_50326",
+		"u": 1624212891996,
+		"x": 11061.5,
+		"y": 7745.5
+	},
+	{
+		"icon": "angryearth_ruins",
+		"name": "ui_poi_crater_mysticbridgetower_50368",
+		"u": 1624207266252,
+		"x": 11661,
+		"y": 7868.25
+	},
+	{
+		"icon": "azure_tree",
+		"name": "ui_poi_crater_mysticgrove_50318",
+		"u": 1624206925241,
+		"x": 11757.5,
+		"y": 7857.25
+	},
+	{
+		"icon": "abandonedcity",
+		"name": "ui_poi_arena_spriggan",
+		"u": 1628372147641,
+		"x": 11875,
+		"y": 7893.75
+	},
+	{
+		"icon": "angryearth_ruins",
+		"name": "ui_poi_crater_feralcolony_50324",
+		"u": 1624208634061,
+		"x": 12080.5,
+		"y": 7723
+	},
+	{
+		"icon": "angryearth_ruins",
+		"name": "ui_poi_crater_feycrossing_50314",
+		"u": 1624208197865,
+		"x": 11772,
+		"y": 7483
+	},
+	{
+		"icon": "angryearth_village",
+		"name": "ui_poi_crater_blightedvillage_50343",
+		"u": 1624208174963,
+		"x": 11474,
+		"y": 7451
+	},
+	{
+		"icon": "angryearth_ruins",
+		"name": "ui_poi_crater_blightedvillage_50353",
+		"u": 1624208035357,
+		"x": 11415.5,
+		"y": 7385.5
+	},
+	{
+		"icon": "angryearth_ruins",
+		"name": "ui_poi_crater_feyruins_50354",
+		"x": 11329.2,
+		"y": 7285.25
+	},
+	{
+		"icon": "angryearth_ruins",
+		"name": "ui_poi_crater_feralaqueduct_50356",
+		"u": 1624211032435,
+		"x": 11029,
+		"y": 7173.5
+	},
+	{
+		"icon": "angryearth_ruins",
+		"name": "ui_poi_crater_feralledge_50313",
+		"u": 1624211066515,
+		"x": 11192.5,
+		"y": 7176
+	},
+	{
+		"icon": "angryearth_ruins",
+		"name": "ui_poi_crater_feralruins_50375",
+		"x": 10821.25,
+		"y": 7697
+	},
+	{
+		"icon": "angryearth_ruins",
+		"name": "ui_poi_crater_feyretreat_50315",
+		"u": 1624211520389,
+		"x": 10915.5,
+		"y": 7137.5
+	},
+	{
+		"icon": "angryearth_grove",
+		"name": "ui_poi_crater_brutalviewsite_50311",
+		"u": 1624212693663,
+		"x": 11984,
+		"y": 6828.25
+	},
+	{
+		"icon": "angryearth_ruins",
+		"name": "ui_poi_crater_feyruins_50346",
+		"u": 1624212593074,
+		"x": 11654.75,
+		"y": 7091.25
+	},
+	{
+		"icon": "angryearth_village",
+		"name": "ui_poi_crater_blightedvillage_50358",
+		"u": 1624211355708,
+		"x": 11441.5,
+		"y": 6963.25
+	},
+	{
+		"icon": "angryearth_grovealtar",
+		"name": "ui_poi_crater_brutalsummit_50309",
+		"u": 1624212520850,
+		"x": 11771.5,
+		"y": 6833
+	},
+	{
+		"icon": "angryearth_grove",
+		"name": "ui_poi_crater_brutalrest_50308",
+		"u": 1624212395513,
+		"x": 11752,
+		"y": 6678.25
+	},
+	{
+		"icon": "angryearth_ruins",
+		"name": "ui_poi_crater_blightedbridge_50351",
+		"u": 1624204892897,
+		"x": 11103.75,
+		"y": 7456.5
+	},
+	{
+		"icon": "bear_elemental_den",
+		"name": "ui_poi_crater_prowlerridge_50404",
+		"u": 1624203863250,
+		"x": 11565,
+		"y": 8515.5
+	},
+	{
+		"icon": "angryearth_ruins",
+		"name": "ui_poi_crater_feralhaven_50312",
+		"u": 1624206701755,
+		"x": 12052.5,
+		"y": 8120.5
+	},
+	{
+		"icon": "ancient_tower",
+		"name": "ui_poi_crater_ancientwatchtower_50328",
+		"u": 1624209020729,
+		"x": 12245.5,
+		"y": 6909.5
+	},
+	{
+		"icon": "angryearth_grove",
+		"name": "ui_poi_crater_brutaloffering_50330",
+		"u": 1624204714660,
+		"x": 10943.2,
+		"y": 7475
+	},
+	{
+		"icon": "ancient_malevolence_elite",
+		"name": "ui_poi_crater_malevolence_50325",
+		"u": 1624205998171,
+		"x": 11374,
+		"y": 7940.75
+	},
+	{
+		"icon": "ancient_spite",
+		"name": "ui_poi_crater_malice_50327",
+		"u": 1624208000153,
+		"x": 11295,
+		"y": 7533.7
+	},
+	{
+		"icon": "angryearth_cave",
+		"name": "ui_poi_crater_blightedcave_50359",
+		"u": 1624211349383,
+		"x": 11355.5,
+		"y": 6863
+	},
+	{
+		"icon": "abandoned_campsite",
+		"name": "ui_poi_crater_corruptedminecamp_50339",
+		"u": 1624211740613,
+		"x": 11018,
+		"y": 6764
+	},
+	{
+		"icon": "mine",
+		"name": "ui_poi_crater_corruptedmineeast_50333",
+		"u": 1624212050702,
+		"x": 11305.798,
+		"y": 6640.062
+	},
+	{
+		"icon": "abandoned_campsite",
+		"name": "ui_poi_crater_corruptedminecamp_50341",
+		"u": 1624212128173,
+		"x": 11318.345,
+		"y": 6529.701
+	},
+	{
+		"icon": "abandoned_campsite",
+		"name": "ui_poi_crater_corruptedminecamp_50340",
+		"u": 1624212191506,
+		"x": 11429.299,
+		"y": 6509.449
+	},
+	{
+		"icon": "angryearth_cave",
+		"name": "ui_poi_crater_brutallair_50402",
+		"u": 1624291071145,
+		"x": 10637,
+		"y": 8550
+	},
+	{
+		"icon": "angryearth_cave",
+		"name": "ui_poi_crater_blightedcave_50320",
+		"u": 1624291085087,
+		"x": 10484,
+		"y": 8034
+	},
+	{
+		"icon": "angryearth_village",
+		"name": "ui_poi_crater_blightedvillage_50382",
+		"u": 1624291094030,
+		"x": 10540,
+		"y": 7900
+	}
+]

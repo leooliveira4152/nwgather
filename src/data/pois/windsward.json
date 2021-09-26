@@ -1,0 +1,214 @@
+[
+	{
+		"icon": "farmingvillage",
+		"name": "ui_poi_witheredfarm_3_40104",
+		"u": 1624271889565,
+		"x": 8355.348,
+		"y": 2450.967
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_ancient_ruins_40153",
+		"u": 1624282603815,
+		"x": 8531.146,
+		"y": 2205.922
+	},
+	{
+		"icon": "hero_shipwreck",
+		"name": "ui_poi_undeadbastion_3_40124",
+		"u": 1624282139564,
+		"x": 8818.304,
+		"y": 2220.892
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_overlook_40152",
+		"u": 1624282492856,
+		"x": 8864.404,
+		"y": 2104.956
+	},
+	{
+		"icon": "farmingvillage",
+		"name": "ui_poi_witheredfarm_2_40103",
+		"u": 1621116469060,
+		"x": 8850.98,
+		"y": 2592.681
+	},
+	{
+		"icon": "fortress",
+		"name": "ui_poi_fort_windsward",
+		"u": 1621102950681,
+		"x": 8922.53,
+		"y": 3324.714
+	},
+	{
+		"icon": "ancient_lookout",
+		"name": "ui_poi_ancient_lookout_40106",
+		"u": 1624283089468,
+		"x": 9117.863,
+		"y": 3271.818
+	},
+	{
+		"icon": "abandoned_campsite",
+		"name": "ui_poi_withered_camp_40101",
+		"u": 1624283663374,
+		"x": 9332.478,
+		"y": 3035.425
+	},
+	{
+		"icon": "township",
+		"name": "ui_poi_town_windsward",
+		"u": 1621100741699,
+		"x": 9351.972,
+		"y": 2718.424
+	},
+	{
+		"icon": "ancient_lookout",
+		"name": "ui_poi_ancient_lookout_40107",
+		"u": 1624283051499,
+		"x": 8892.75,
+		"y": 3370.75
+	},
+	{
+		"icon": "ancient_lookout",
+		"name": "ui_poi_ancient_lookout_40115",
+		"u": 1624283151850,
+		"x": 9373.5,
+		"y": 3269.75
+	},
+	{
+		"icon": "ancient_temple_lg",
+		"name": "ui_poi_ancient_temple_lg",
+		"u": 1621113170780,
+		"x": 9538.5,
+		"y": 3169
+	},
+	{
+		"icon": "ancient_lookout",
+		"name": "ui_poi_ancient_lookout_40111",
+		"u": 1621417664958,
+		"x": 9586,
+		"y": 3344.7
+	},
+	{
+		"icon": "hero_shipwreck",
+		"name": "ui_poi_undeadbastion_1_40137",
+		"u": 1621113638433,
+		"x": 10041.75,
+		"y": 2979.5
+	},
+	{
+		"icon": "hero_shipwreck",
+		"name": "ui_poi_undeadbastion_2_40122",
+		"x": 10120.75,
+		"y": 2880.25
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_ancient_bridge_40121",
+		"u": 1621115151507,
+		"x": 9929.75,
+		"y": 2857.25
+	},
+	{
+		"icon": "wolf_den",
+		"name": "ui_poi_alpha_wolf_den_40119",
+		"u": 1624283520582,
+		"x": 9658.64,
+		"y": 2748.594
+	},
+	{
+		"icon": "ancient_buttress",
+		"name": "ui_poi_ancient_buttress_40120",
+		"x": 9820.302,
+		"y": 2672.497
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_drownedshipwreck_4_40141",
+		"u": 1624104538547,
+		"x": 9939.581,
+		"y": 2427.846
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_drownedshipwreck_3_40140",
+		"u": 1624104809105,
+		"x": 9873.524,
+		"y": 2299.96
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_drownedshipwreck_2_40142",
+		"u": 1624104952399,
+		"x": 9694.397,
+		"y": 2255.354
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_drownedshipwreck_1_40144",
+		"u": 1624105049401,
+		"x": 9689.682,
+		"y": 2111.644
+	},
+	{
+		"icon": "watchtower",
+		"name": "ui_poi_outpost_41_2_40148",
+		"x": 9607.303,
+		"y": 2370.983
+	},
+	{
+		"icon": "cave",
+		"name": "ui_poi_drownedcavern_40146",
+		"x": 9752,
+		"y": 2505.5
+	},
+	{
+		"icon": "abandoned_farm_village",
+		"name": "ui_poi_witheredfarm_1_40102",
+		"u": 1624282774258,
+		"x": 8982.532,
+		"y": 2897.306
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_infested_village_40160",
+		"x": 8529.735,
+		"y": 2656.041
+	},
+	{
+		"icon": "hero_shipwreck",
+		"name": "ui_poi_undeadbastion_40158",
+		"u": 1624282195052,
+		"x": 8805.61,
+		"y": 2352.029
+	},
+	{
+		"icon": "abandoned_farm_village",
+		"name": "ui_poi_witheredfarm_40159",
+		"u": 1624282050090,
+		"x": 8987.612,
+		"y": 2370.101
+	},
+	{
+		"icon": "abandoned_campsite",
+		"name": "ui_poi_withered_camp_40157",
+		"u": 1622028191088,
+		"x": 8759.556,
+		"y": 2963.952
+	},
+	{
+		"icon": "wolf_den",
+		"name": "ui_poi_alpha_wolf_den_40118",
+		"u": 1624281739404,
+		"x": 9315,
+		"y": 2400
+	},
+	{
+		"icon": "bear_den",
+		"name": "ui_poi_bear_den_40125",
+		"u": 1624281918566,
+		"x": 9281,
+		"y": 2245.7
+	}
+]

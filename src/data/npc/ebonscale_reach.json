@@ -1,0 +1,68 @@
+[
+	{
+		"icon": "inn",
+		"name": "0824_Innkeep",
+		"x": 7289.033,
+		"y": 5336.52
+	},
+	{
+		"icon": "marauder",
+		"name": "0807_Commander",
+		"x": 7297.379,
+		"y": 5397.646
+	},
+	{
+		"icon": "syndicate",
+		"name": "0808_Alchemist",
+		"x": 7275.469,
+		"y": 5372.869
+	},
+	{
+		"icon": "covenant",
+		"name": "0809_Adjudicator",
+		"x": 7266.123,
+		"y": 5395.373
+	},
+	{
+		"icon": "generic",
+		"name": "0805_Artificer",
+		"x": 7252.329,
+		"y": 5365.663
+	},
+	{
+		"icon": "generic",
+		"name": "0802_Magistrate",
+		"x": 7253.979,
+		"y": 5400.994
+	},
+	{
+		"icon": "generic",
+		"name": "0810_Barkeep",
+		"x": 7239.45,
+		"y": 5395.622
+	},
+	{
+		"icon": "generic",
+		"name": "0803_Survivalist",
+		"x": 7269.288,
+		"y": 5407.496
+	},
+	{
+		"icon": "generic",
+		"name": "0899_Liberator",
+		"x": 5275,
+		"y": 4237
+	},
+	{
+		"icon": "generic",
+		"name": "0811_Stranger",
+		"x": 7282.107,
+		"y": 5385.001
+	},
+	{
+		"icon": "generic",
+		"name": "0823_Fisher",
+		"x": 7315.972,
+		"y": 5372.204
+	}
+]

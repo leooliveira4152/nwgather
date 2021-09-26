@@ -1,0 +1,39 @@
+[
+	{
+		"body": "08_EbonscaleReach_Body_01_01",
+		"chapter": "08_EbonscaleReach_Chapter_01",
+		"pageNumber": 1,
+		"title": "08_EbonscaleReach_Title_01_01",
+		"topic": "Topic_08_EbonscaleReach",
+		"x": 7301,
+		"y": 5357
+	},
+	{
+		"body": "08_EbonscaleReach_Body_01_02",
+		"chapter": "08_EbonscaleReach_Chapter_01",
+		"pageNumber": 2,
+		"title": "08_EbonscaleReach_Title_01_02",
+		"topic": "Topic_08_EbonscaleReach",
+		"x": 7288,
+		"y": 5446
+	},
+	{
+		"body": "08_EbonscaleReach_Body_01_03",
+		"chapter": "08_EbonscaleReach_Chapter_01",
+		"pageNumber": 3,
+		"title": "08_EbonscaleReach_Title_01_03",
+		"topic": "Topic_08_EbonscaleReach",
+		"x": 6397.447,
+		"y": 4679.607
+	},
+	{
+		"body": "08_EbonscaleReach_Body_01_04",
+		"chapter": "08_EbonscaleReach_Chapter_01",
+		"pageNumber": 4,
+		"title": "08_EbonscaleReach_Title_01_04",
+		"topic": "Topic_08_EbonscaleReach",
+		"u": 1630345856955,
+		"x": 6442.24,
+		"y": 4703.171
+	}
+]

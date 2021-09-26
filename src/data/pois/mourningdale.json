@@ -1,0 +1,287 @@
+[
+	{
+		"icon": "mine",
+		"name": "ui_poi_mine_60401",
+		"u": 1624220307578,
+		"x": 12633.143,
+		"y": 8553.417
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_ancient_ruins_crossroads_60313",
+		"u": 1624222578732,
+		"x": 12947.715,
+		"y": 6805.751
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_ancient_ruins_falls_60314",
+		"u": 1624222479794,
+		"x": 12952.452,
+		"y": 7100.192
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_ancient_ruins_seacliff_60312",
+		"u": 1624225191062,
+		"x": 13599.91,
+		"y": 7050.804
+	},
+	{
+		"icon": "township",
+		"name": "ui_poi_town_mourningdale",
+		"x": 13163.402,
+		"y": 6976.256
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_homestead_waterrun_60304",
+		"u": 1624225841335,
+		"x": 13369.913,
+		"y": 6776.021
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_ancient_ruins_mainland_60311",
+		"x": 13280.975,
+		"y": 7393.763
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_ancient_ruins_streamside_60309",
+		"u": 1624222619473,
+		"x": 13076.707,
+		"y": 6596.097
+	},
+	{
+		"icon": "ancient_lookout",
+		"name": "ui_poi_ancient_lookout_splitfork_60225",
+		"u": 1624226139351,
+		"x": 12821,
+		"y": 6057
+	},
+	{
+		"icon": "mine",
+		"name": "ui_poi_mine_haunted_whispering_60301",
+		"u": 1624225261333,
+		"x": 13686,
+		"y": 7200
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_ancient_ruins_hillside_60317",
+		"x": 12733,
+		"y": 6530
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_ancient_ruins_flooded_60315",
+		"x": 13082,
+		"y": 6330
+	},
+	{
+		"icon": "abandoned_campsite",
+		"name": "ui_poi_cave_60337",
+		"u": 1624226322795,
+		"x": 12377,
+		"y": 6277
+	},
+	{
+		"icon": "ancient_lookout",
+		"name": "ui_poi_ancient_lookout_sheperd_50306",
+		"u": 1624226377221,
+		"x": 12260,
+		"y": 6460
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_ancient_ruins_mourningbridge_60342",
+		"x": 12753,
+		"y": 7223
+	},
+	{
+		"icon": "ancient_lookout",
+		"name": "ui_poi_ancient_lookout_seaside_60305",
+		"u": 1624225735314,
+		"x": 13825,
+		"y": 6650
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_small_outpost_60340",
+		"x": 13480,
+		"y": 7030
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_tree_offering_60319",
+		"u": 1624225609196,
+		"x": 13916,
+		"y": 7216
+	},
+	{
+		"icon": "cave",
+		"name": "ui_poi_nature_cave_smugglerscove_60320",
+		"u": 1624224109277,
+		"x": 13917,
+		"y": 6989
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_wrecked_galleon_60339",
+		"u": 1624223910020,
+		"x": 14068,
+		"y": 7459
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_ancient_pier_60344",
+		"x": 14214,
+		"y": 7809
+	},
+	{
+		"icon": "ancient_lighthouse",
+		"name": "ui_poi_ancient_watchtower_highbluff_60318",
+		"u": 1624225040431,
+		"x": 13440,
+		"y": 7206
+	},
+	{
+		"icon": "ancient_lookout",
+		"name": "ui_poi_ancient_lookout_forestsouth_60307",
+		"u": 1624224274752,
+		"x": 13043,
+		"y": 7363
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_abandoned_homestead_highpoint_60303",
+		"u": 1624224570514,
+		"x": 13489,
+		"y": 7680
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_ancient_ruins_forest_60310",
+		"u": 1624223254697,
+		"x": 13140,
+		"y": 7896
+	},
+	{
+		"icon": "wolf_den",
+		"name": "ui_poi_wolf_den_forestsouth_60322",
+		"u": 1624224367014,
+		"x": 13031,
+		"y": 7580
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_ancient_ruins_woods_60316",
+		"u": 1624223234522,
+		"x": 12990,
+		"y": 7786
+	},
+	{
+		"icon": "ancient_lookout",
+		"name": "ui_poi_ancient_lookout_overgrowth_60306",
+		"u": 1624223190797,
+		"x": 12971,
+		"y": 8007
+	},
+	{
+		"icon": "wolf_den",
+		"name": "ui_poi_animalden_60210",
+		"u": 1624223021444,
+		"x": 13067,
+		"y": 8117
+	},
+	{
+		"icon": "bear_den",
+		"name": "ui_poi_wolf_den_highpoint_60323",
+		"x": 13414,
+		"y": 7885
+	},
+	{
+		"icon": "ancient_lookout",
+		"name": "ui_poi_ancient_lookout_highcliff_60403",
+		"x": 13700,
+		"y": 8369
+	},
+	{
+		"icon": "bear_den",
+		"name": "ui_poi_bear_den_ramshead_60404",
+		"u": 1624221708430,
+		"x": 13516,
+		"y": 8446
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_abandoned_village_60409",
+		"u": 1624221091718,
+		"x": 13370,
+		"y": 8499
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_abandoned_homestead_overlook_60402",
+		"u": 1624220954732,
+		"x": 13098,
+		"y": 8477
+	},
+	{
+		"icon": "bear_den",
+		"name": "ui_poi_grizzly_den_ridgepeak_60321",
+		"u": 1624222264653,
+		"x": 12624,
+		"y": 7544
+	},
+	{
+		"icon": "fortress",
+		"name": "ui_poi_fort_mourningdale",
+		"u": 1627024861004,
+		"x": 13716,
+		"y": 6300
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_crater_corruptedsettlement_60338",
+		"u": 1624220437397,
+		"x": 12480.286,
+		"y": 7940.747
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_crater_corruptedsettlement_60341",
+		"u": 1624220522219,
+		"x": 12385,
+		"y": 7800.5
+	},
+	{
+		"icon": "abandoned_campsite",
+		"name": "ui_poi_crater_corruptedceremony_50411",
+		"u": 1624220679141,
+		"x": 12182.25,
+		"y": 8324.5
+	},
+	{
+		"icon": "ancient_lighthouse_elite",
+		"name": "ui_poi_ancient_lighthouse_60343",
+		"u": 1624221989092,
+		"x": 14181,
+		"y": 8090
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_ancient_port_60336",
+		"u": 1624222165464,
+		"x": 13974.5,
+		"y": 8030
+	},
+	{
+		"icon": "ancient_lookout",
+		"name": "ui_poi_ancient_lookout_portside_60308",
+		"u": 1624225525762,
+		"x": 13809.492,
+		"y": 7626.967
+	}
+]

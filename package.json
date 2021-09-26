@@ -3,13 +3,32 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "start": "concurrently --kill-others --p \"[{none}]\" \"npm run back\" \"npm run serve\"",
+    "back": "node main.js",
+    "back-dev": "nodemon main.js -s",
+    "serve": "vue-cli-service serve --port 1010 -noinstructions",
+    "build": "vue-cli-service build --port 1010",
+    "lint": "vue-cli-service lint --port 1010"
   },
   "dependencies": {
+    "axios": "^0.21.4",
+    "bootstrap": "^5.1.1",
+    "bootstrap-vue": "^2.21.2",
+    "concurrently": "^6.2.1",
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "element-ui": "^2.15.6",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "image-clipper": "^0.4.4",
+    "konva": "^8.1.4",
+    "node-canvas": "^2.7.0",
+    "node-tesseract-ocr": "^2.2.1",
+    "path": "^0.12.7",
+    "screenshot-desktop": "^1.12.7",
+    "string-similarity": "^4.0.4",
+    "vue": "^2.6.11",
+    "vue-konva": "^2.1.7",
+    "vue-loading": "^0.1.4"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",

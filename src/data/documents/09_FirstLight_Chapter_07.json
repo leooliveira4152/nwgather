@@ -1,0 +1,42 @@
+[
+	{
+		"body": "09_FirstLight_Body_07_02",
+		"chapter": "09_FirstLight_Chapter_07",
+		"pageNumber": 2,
+		"title": "09_FirstLight_Title_07_02",
+		"topic": "Topic_09_FirstLight",
+		"u": 1623514467240,
+		"x": 8341.396,
+		"y": 1365.388
+	},
+	{
+		"body": "09_FirstLight_Body_07_03",
+		"chapter": "09_FirstLight_Chapter_07",
+		"pageNumber": 3,
+		"title": "09_FirstLight_Title_07_03",
+		"topic": "Topic_09_FirstLight",
+		"u": 1623514375706,
+		"x": 8425.146,
+		"y": 1325.812
+	},
+	{
+		"body": "09_FirstLight_Body_07_01",
+		"chapter": "09_FirstLight_Chapter_07",
+		"pageNumber": 1,
+		"title": "09_FirstLight_Title_07_01",
+		"topic": "Topic_09_FirstLight",
+		"u": 1623157542634,
+		"x": 8445.816,
+		"y": 1385.654
+	},
+	{
+		"body": "09_FirstLight_Body_07_04",
+		"chapter": "09_FirstLight_Chapter_07",
+		"pageNumber": 4,
+		"title": "09_FirstLight_Title_07_04",
+		"topic": "Topic_09_FirstLight",
+		"u": 1624456554180,
+		"x": 9656.9892578125,
+		"y": 1717.822998046875
+	}
+]

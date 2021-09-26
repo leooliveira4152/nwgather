@@ -1,0 +1,42 @@
+[
+	{
+		"body": "12_MonarchsBluffs_Body_15_01",
+		"chapter": "12_MonarchsBluffs_Chapter_15",
+		"pageNumber": 1,
+		"title": "12_MonarchsBluffs_Title_15_01",
+		"topic": "Topic_12_MonarchsBluffs",
+		"u": 1624456332654,
+		"x": 6924.89599609375,
+		"y": 2141.3583984375
+	},
+	{
+		"body": "12_MonarchsBluffs_Body_15_02",
+		"chapter": "12_MonarchsBluffs_Chapter_15",
+		"pageNumber": 2,
+		"title": "12_MonarchsBluffs_Title_15_02",
+		"topic": "Topic_12_MonarchsBluffs",
+		"u": 1624456420068,
+		"x": 6933.1171875,
+		"y": 2071.618896484375
+	},
+	{
+		"body": "12_MonarchsBluffs_Body_15_03",
+		"chapter": "12_MonarchsBluffs_Chapter_15",
+		"pageNumber": 3,
+		"title": "12_MonarchsBluffs_Title_15_03",
+		"topic": "Topic_12_MonarchsBluffs",
+		"u": 1624456450818,
+		"x": 7079.8916015625,
+		"y": 2147.73046875
+	},
+	{
+		"body": "12_MonarchsBluffs_Body_15_04",
+		"chapter": "12_MonarchsBluffs_Chapter_15",
+		"pageNumber": 4,
+		"title": "12_MonarchsBluffs_Title_15_04",
+		"topic": "Topic_12_MonarchsBluffs",
+		"u": 1624456478153,
+		"x": 7047.7392578125,
+		"y": 2091.02490234375
+	}
+]

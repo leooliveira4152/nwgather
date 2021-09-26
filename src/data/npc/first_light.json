@@ -1,0 +1,77 @@
+[
+	{
+		"icon": "syndicate",
+		"name": "0908_Alchemist",
+		"x": 8859.818,
+		"y": 643.19
+	},
+	{
+		"icon": "generic",
+		"name": "0905_Artificer",
+		"x": 8847.203,
+		"y": 657.986
+	},
+	{
+		"icon": "generic",
+		"name": "0903_Survivalist",
+		"x": 8793.612,
+		"y": 726.225
+	},
+	{
+		"icon": "generic",
+		"name": "0904_Overseer",
+		"u": 1626808389397,
+		"x": 8854.724,
+		"y": 766.331
+	},
+	{
+		"icon": "marauder",
+		"name": "0907_Commander",
+		"x": 8805.095,
+		"y": 743.786
+	},
+	{
+		"icon": "generic",
+		"name": "0906_Trader",
+		"x": 8845.097,
+		"y": 712.824
+	},
+	{
+		"icon": "generic",
+		"name": "0902_Magistrate",
+		"x": 8867.713,
+		"y": 707.222
+	},
+	{
+		"icon": "generic",
+		"name": "0910_Barkeep",
+		"x": 8883.96,
+		"y": 700.252
+	},
+	{
+		"icon": "covenant",
+		"name": "0909_Adjudicator",
+		"x": 8904.062,
+		"y": 688.414
+	},
+	{
+		"icon": "generic",
+		"name": "0901_Watcher",
+		"u": 1621108236186,
+		"x": 9737,
+		"y": 339
+	},
+	{
+		"icon": "inn",
+		"name": "0922_innkeep",
+		"x": 8849.6,
+		"y": 699.2
+	},
+	{
+		"icon": "generic",
+		"name": "0923_Fisher",
+		"u": 1627051661372,
+		"x": 9106.971,
+		"y": 1268.731
+	}
+]

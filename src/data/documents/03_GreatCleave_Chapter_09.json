@@ -1,0 +1,52 @@
+[
+	{
+		"body": "03_GreatCleave_Body_09_03",
+		"chapter": "03_GreatCleave_Chapter_09",
+		"pageNumber": 3,
+		"title": "03_GreatCleave_Title_09_03",
+		"topic": "Topic_03_GreatCleave",
+		"u": 1622461534693,
+		"x": 8415.958,
+		"y": 8225.406
+	},
+	{
+		"body": "03_GreatCleave_Body_09_02",
+		"chapter": "03_GreatCleave_Chapter_09",
+		"pageNumber": 2,
+		"title": "03_GreatCleave_Title_09_02",
+		"topic": "Topic_03_GreatCleave",
+		"u": 1622461665238,
+		"x": 8122.201,
+		"y": 7709.914
+	},
+	{
+		"body": "03_GreatCleave_Body_09_05",
+		"chapter": "03_GreatCleave_Chapter_09",
+		"pageNumber": 5,
+		"title": "03_GreatCleave_Title_09_05",
+		"topic": "Topic_03_GreatCleave",
+		"u": 1622461889255,
+		"x": 8652.911,
+		"y": 7806.842
+	},
+	{
+		"body": "03_GreatCleave_Body_09_04",
+		"chapter": "03_GreatCleave_Chapter_09",
+		"pageNumber": 4,
+		"title": "03_GreatCleave_Title_09_04",
+		"topic": "Topic_03_GreatCleave",
+		"u": 1622710170787,
+		"x": 8293.897,
+		"y": 7617.167
+	},
+	{
+		"body": "03_GreatCleave_Body_09_01",
+		"chapter": "03_GreatCleave_Chapter_09",
+		"pageNumber": 1,
+		"title": "03_GreatCleave_Title_09_01",
+		"topic": "Topic_03_GreatCleave",
+		"u": 1622710238389,
+		"x": 8026.467,
+		"y": 7548.455
+	}
+]

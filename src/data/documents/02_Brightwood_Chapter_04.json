@@ -1,0 +1,22 @@
+[
+	{
+		"body": "02_Brightwood_Body_04_01",
+		"chapter": "02_Brightwood_Chapter_04",
+		"pageNumber": 1,
+		"title": "02_Brightwood_Title_04_01",
+		"topic": "Topic_02_Brightwood",
+		"u": 1622554671776,
+		"x": 10161.558,
+		"y": 6267.676
+	},
+	{
+		"body": "02_Brightwood_Body_04_02",
+		"chapter": "02_Brightwood_Chapter_04",
+		"pageNumber": 2,
+		"title": "02_Brightwood_Title_04_02",
+		"topic": "Topic_02_Brightwood",
+		"u": 1622461516948,
+		"x": 9903.098,
+		"y": 6538.294
+	}
+]

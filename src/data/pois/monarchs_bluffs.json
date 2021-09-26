@@ -1,0 +1,302 @@
+[
+	{
+		"icon": "ancient_lookout",
+		"name": "ui_poi_ancient_lookout_40108",
+		"u": 1622098852983,
+		"x": 8689.001,
+		"y": 3560.695
+	},
+	{
+		"icon": "township",
+		"name": "ui_poi_town_monarchs_bluffs",
+		"u": 1621095173238,
+		"x": 7364.805,
+		"y": 3714.371
+	},
+	{
+		"icon": "farmingvillage",
+		"name": "ui_poi_witheredfarm_1_30104",
+		"u": 1621625805983,
+		"x": 7511.601,
+		"y": 3763
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_ancient_ruins_30121",
+		"u": 1622102531511,
+		"x": 7901.566,
+		"y": 3354.112
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_ancient_ruins_30119",
+		"u": 1622102469425,
+		"x": 8147.287,
+		"y": 3551.198
+	},
+	{
+		"icon": "watchtower",
+		"name": "ui_poi_watchtower_mb_01_30117",
+		"u": 1621959735170,
+		"x": 7302.577,
+		"y": 3090.942
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_shipwreck_mb_03_30129",
+		"u": 1621960715163,
+		"x": 7015.126,
+		"y": 3111.211
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_shipwreck_mb_04_30130",
+		"u": 1622098089542,
+		"x": 7112.606,
+		"y": 2953.298
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_shipwreck_mb_01_30123",
+		"u": 1621960460431,
+		"x": 7111.543,
+		"y": 3256.036
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_shipwreck_mb_02_30125",
+		"u": 1621960253347,
+		"x": 7169.801,
+		"y": 3146.053
+	},
+	{
+		"icon": "farmingvillage",
+		"name": "ui_poi_abandoned_farm_village_40267",
+		"u": 1621251080372,
+		"x": 8437.498,
+		"y": 4146.242
+	},
+	{
+		"icon": "farmingvillage",
+		"name": "ui_poi_witheredfarm_3_30113",
+		"u": 1621667316608,
+		"x": 7683.019,
+		"y": 2965.788
+	},
+	{
+		"icon": "farmingvillage",
+		"name": "ui_poi_witheredfarm_2_30114",
+		"u": 1621689087959,
+		"x": 8083.305,
+		"y": 2804.636
+	},
+	{
+		"icon": "farmingvillage",
+		"name": "ui_poi_witheredfarm_30116",
+		"u": 1621683409873,
+		"x": 7942.58,
+		"y": 2537.78
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_dryad_cavern",
+		"u": 1622048735842,
+		"x": 6746.667,
+		"y": 2923.072
+	},
+	{
+		"icon": "wolf_den",
+		"name": "ui_poi_greywolf_den_30131",
+		"u": 1621668387072,
+		"x": 7319.993,
+		"y": 3552.593
+	},
+	{
+		"icon": "wolf_den",
+		"name": "ui_poi_greywolf_den_30132",
+		"u": 1621668389220,
+		"x": 7569.449,
+		"y": 3499.396
+	},
+	{
+		"icon": "fortress",
+		"name": "ui_poi_fort_monarchs_bluffs",
+		"u": 1621090428204,
+		"x": 6305.75,
+		"y": 3350.25
+	},
+	{
+		"icon": "ancient_temple_sm",
+		"name": "ui_poi_ancient_ruins_40154",
+		"u": 1621710435920,
+		"x": 8472.222,
+		"y": 3504.443
+	},
+	{
+		"icon": "wolf_den",
+		"name": "ui_poi_grey_wolf_den_30111",
+		"u": 1622048781770,
+		"x": 6612.694,
+		"y": 3273.445
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_shipwreck_30101",
+		"u": 1622048662450,
+		"x": 6702.067,
+		"y": 2472.026
+	},
+	{
+		"icon": "hero_shipwreck",
+		"name": "ui_poi_undeadbastion_30126",
+		"u": 1621946273787,
+		"x": 6784.411,
+		"y": 2286.966
+	},
+	{
+		"icon": "cave",
+		"name": "ui_poi_cavern_mb_01_30122",
+		"u": 1622013187116,
+		"x": 7287,
+		"y": 2897.25
+	},
+	{
+		"icon": "wolf_den",
+		"name": "ui_poi_alpha_wolf_den_30109",
+		"u": 1622030004912,
+		"x": 7222.62,
+		"y": 2175
+	},
+	{
+		"icon": "bear_den",
+		"name": "ui_poi_bear_den_30107",
+		"u": 1622022340084,
+		"x": 7450,
+		"y": 2562.304
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_ancient_ruins_30120",
+		"u": 1621868180629,
+		"x": 7556.274,
+		"y": 2650
+	},
+	{
+		"icon": "wolf_den",
+		"name": "ui_poi_alpha_wolf_den_30110",
+		"u": 1621781657128,
+		"x": 7794.374,
+		"y": 2770
+	},
+	{
+		"icon": "abandoned_farm_village",
+		"name": "ui_poi_witheredfarm_1_30105",
+		"u": 1621692693007,
+		"x": 8050,
+		"y": 3050.682
+	},
+	{
+		"icon": "wolf_den",
+		"name": "ui_poi_alpha_wolf_den_30135",
+		"u": 1622102503398,
+		"x": 7980,
+		"y": 3537.726
+	},
+	{
+		"icon": "wolf_den",
+		"name": "ui_poi_alpha_wolf_den_40117",
+		"u": 1621710700661,
+		"x": 8575.632,
+		"y": 3581
+	},
+	{
+		"icon": "ancient_temple_sm",
+		"name": "ui_poi_ancient_ruins_40155",
+		"u": 1621701983091,
+		"x": 8300,
+		"y": 4031.614
+	},
+	{
+		"icon": "hero_shipwreck",
+		"name": "ui_poi_undeadbastion",
+		"u": 1621754050062,
+		"x": 7700,
+		"y": 4278.436
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_shipwreck_30223",
+		"u": 1621610417120,
+		"x": 7694.319,
+		"y": 4440
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_shipwreck_30222",
+		"u": 1621610400903,
+		"x": 7520,
+		"y": 4346.146
+	},
+	{
+		"icon": "bear_den",
+		"name": "ui_poi_bear_den_40139",
+		"u": 1621704993770,
+		"x": 8264.325,
+		"y": 3706.04
+	},
+	{
+		"icon": "abandoned_fishing_village",
+		"name": "ui_poi_msq_hub_hermit",
+		"u": 1621115809630,
+		"x": 8344.812,
+		"y": 2616.557
+	},
+	{
+		"icon": "abandoned_campsite",
+		"name": "ui_poi_devilspit_30134",
+		"u": 1621708305324,
+		"x": 7775.375,
+		"y": 3669.285
+	},
+	{
+		"icon": "mine",
+		"name": "ui_poi_bear_den_30108",
+		"x": 7767.844,
+		"y": 3560.889
+	},
+	{
+		"icon": "mine",
+		"name": "ui_poi_witherd_mines_30112",
+		"u": 1622057208841,
+		"x": 7759.722,
+		"y": 3753.617
+	},
+	{
+		"icon": "farmingvillage",
+		"name": "ui_poi_witheredfarm_2_30115",
+		"u": 1621685734273,
+		"x": 8116.999,
+		"y": 2630.176
+	},
+	{
+		"icon": "abandoned_fishing_village",
+		"name": "ui_poi_undeadbastion_30127",
+		"u": 1621761905975,
+		"x": 7498,
+		"y": 2250.177
+	},
+	{
+		"icon": "abandoned_fishing_village",
+		"name": "ui_poi_witheredfarm_30118",
+		"u": 1622033164931,
+		"x": 6791.276,
+		"y": 3683.504
+	},
+	{
+		"icon": "fort_elite",
+		"name": "ui_poi_cave_30124",
+		"u": 1623574672321,
+		"x": 6900.706,
+		"y": 2139.073
+	}
+]

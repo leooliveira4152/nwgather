@@ -1,0 +1,193 @@
+[
+	{
+		"icon": "_tmp_icon",
+		"name": "ui_poi_spiritshrine_01_60239",
+		"u": 1627372021164,
+		"x": 12948.389,
+		"y": 5552
+	},
+	{
+		"icon": "township",
+		"name": "ui_poi_town_restless_shore",
+		"x": 12983.332,
+		"y": 4444.514
+	},
+	{
+		"icon": "abandoned_campsite",
+		"name": "ui_poi_decayedcamp_60213",
+		"u": 1624270380046,
+		"x": 12913.352,
+		"y": 4295.788
+	},
+	{
+		"icon": "abandoned_fishing_village",
+		"name": "ui_poi_eastshorepier_60214",
+		"u": 1624270683299,
+		"x": 13230.02,
+		"y": 4264.042
+	},
+	{
+		"icon": "abandoned_fishing_village",
+		"name": "ui_poi_jetsamisle_60224",
+		"u": 1624270535888,
+		"x": 12615,
+		"y": 4211
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_shipwreck_60208",
+		"u": 1624269922987,
+		"x": 12736.228,
+		"y": 4677.591
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_ravagedwreck_60211",
+		"u": 1624270879039,
+		"x": 13120,
+		"y": 4804
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_bombasticwreckage_60215",
+		"u": 1624269146652,
+		"x": 13713.65,
+		"y": 4366.83
+	},
+	{
+		"icon": "fortress",
+		"name": "ui_poi_fort_restless_shore",
+		"x": 14046.949,
+		"y": 4819.448
+	},
+	{
+		"icon": "graveyard",
+		"name": "ui_poi_solitudecemetery_60216",
+		"x": 14066.815,
+		"y": 5168.116
+	},
+	{
+		"icon": "hero_shipwreck",
+		"name": "ui_poi_fortdamnation_60221",
+		"u": 1624267311540,
+		"x": 13437.439,
+		"y": 5834.071
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_festeringflotsam_60212",
+		"u": 1624269846539,
+		"x": 12947.515,
+		"y": 4949.868
+	},
+	{
+		"icon": "cave",
+		"name": "ui_poi_archlightcave_60204",
+		"u": 1624269429726,
+		"x": 13406.835,
+		"y": 4840
+	},
+	{
+		"icon": "cave",
+		"name": "ui_poi_cutthroatcavern_60203",
+		"u": 1624269529385,
+		"x": 13289.385,
+		"y": 5073.99
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_googlywreck_60218",
+		"u": 1624268565328,
+		"x": 13463.817,
+		"y": 5507.92
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_blightedwreck_60217",
+		"u": 1624268718704,
+		"x": 13816,
+		"y": 5137
+	},
+	{
+		"icon": "fort",
+		"name": "ui_poi_lookoutwest_60219",
+		"u": 1624267089692,
+		"x": 13388.149,
+		"y": 5684.193
+	},
+	{
+		"icon": "abandoned_campsite",
+		"name": "ui_poi_treetopterror_60227",
+		"u": 1624268331206,
+		"x": 13244.628,
+		"y": 5412.24
+	},
+	{
+		"icon": "abandoned_campsite",
+		"name": "ui_poi_blightedcamp_60222",
+		"u": 1624267034863,
+		"x": 13183.704,
+		"y": 5812.304
+	},
+	{
+		"icon": "abandoned_campsite",
+		"name": "ui_poi_accursedcamp_60223",
+		"x": 12853,
+		"y": 5655
+	},
+	{
+		"icon": "wolf_den",
+		"name": "ui_poi_animalden_60210",
+		"x": 12614.725,
+		"y": 5795.492
+	},
+	{
+		"icon": "angryearth_ruins",
+		"name": "ui_poi_ruins_60201",
+		"u": 1624268034854,
+		"x": 13196,
+		"y": 5278
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_clawpointruins_50234",
+		"u": 1624226567289,
+		"x": 12129.75,
+		"y": 5928.75
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_poseidonsplunder_60226",
+		"u": 1624267560197,
+		"x": 13901.75,
+		"y": 5975.5
+	},
+	{
+		"icon": "ancient_lighthouse_elite",
+		"name": "ui_poi_ancient_lighthouse_60206",
+		"u": 1624268117113,
+		"x": 13480,
+		"y": 5168
+	},
+	{
+		"icon": "rabbit",
+		"name": "ui_poi_bunnyisland_60205",
+		"u": 1624271783107,
+		"x": 13430.506,
+		"y": 4648.37
+	},
+	{
+		"icon": "fort",
+		"name": "ui_poi_lookouteast_60220",
+		"u": 1624291119648,
+		"x": 13562,
+		"y": 5732.5
+	},
+	{
+		"icon": "ancient_temple_sm",
+		"name": "ui_poi_shrine_60202",
+		"u": 1624291124328,
+		"x": 13097.75,
+		"y": 5147.5
+	}
+]

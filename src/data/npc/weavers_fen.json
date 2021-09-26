@@ -1,0 +1,162 @@
+[
+	{
+		"icon": "generic",
+		"name": "9917_MSQ_Researcher3",
+		"u": 1627676889197,
+		"x": 10679.92,
+		"y": 5120.61
+	},
+	{
+		"icon": "generic",
+		"name": "1331_MonsterHunter",
+		"u": 1626733879205,
+		"x": 11314,
+		"y": 5679
+	},
+	{
+		"icon": "generic",
+		"name": "1336_AntiquarianSpouse02",
+		"u": 1626739529993,
+		"x": 11219.757,
+		"y": 5324.58
+	},
+	{
+		"icon": "marauder",
+		"name": "1307_Commander",
+		"u": 1623593953716,
+		"x": 11406,
+		"y": 5322
+	},
+	{
+		"icon": "generic",
+		"name": "1305_Artificer",
+		"u": 1623593980885,
+		"x": 11437,
+		"y": 5337
+	},
+	{
+		"icon": "generic",
+		"name": "1310_Barkeep",
+		"u": 1623594045836,
+		"x": 11447,
+		"y": 5357
+	},
+	{
+		"icon": "generic",
+		"name": "1302_Magistrate",
+		"u": 1623593969947,
+		"x": 11458,
+		"y": 5325
+	},
+	{
+		"icon": "generic",
+		"name": "1304_Overseer",
+		"u": 1623593942194,
+		"x": 11489,
+		"y": 5327
+	},
+	{
+		"icon": "syndicate",
+		"name": "1308_Alchemist",
+		"u": 1623593947940,
+		"x": 11469,
+		"y": 5339
+	},
+	{
+		"icon": "generic",
+		"name": "1303_Survivalist",
+		"u": 1623594079523,
+		"x": 11451,
+		"y": 5369
+	},
+	{
+		"icon": "covenant",
+		"name": "1309_Adjudicator",
+		"u": 1623593936370,
+		"x": 11438,
+		"y": 5287
+	},
+	{
+		"icon": "inn",
+		"name": "1322_innkeep",
+		"u": 1623593937909,
+		"x": 11442,
+		"y": 5269
+	},
+	{
+		"icon": "generic",
+		"name": "1330_Pyro",
+		"u": 1623685600950,
+		"x": 10973,
+		"y": 6253
+	},
+	{
+		"icon": "generic",
+		"name": "1323_Fisher",
+		"x": 12141.476,
+		"y": 5523.958
+	},
+	{
+		"icon": "generic",
+		"name": "1333_Architect",
+		"u": 1623574922932,
+		"x": 10501,
+		"y": 5878.3
+	},
+	{
+		"icon": "generic",
+		"name": "1334_Alchemist",
+		"u": 1623915348028,
+		"x": 11716,
+		"y": 5708
+	},
+	{
+		"icon": "generic",
+		"name": "1335_Antiquarian",
+		"u": 1623758255590,
+		"x": 11218,
+		"y": 5326.1
+	},
+	{
+		"icon": "generic",
+		"name": "1332_Hunter",
+		"u": 1622993980766,
+		"x": 11335.613,
+		"y": 5198.687
+	},
+	{
+		"icon": "generic",
+		"name": "9915_MSQ_Researcher1",
+		"u": 1623589025973,
+		"x": 10775.467,
+		"y": 4907.258
+	},
+	{
+		"icon": "generic",
+		"name": "9916_MSQ_Researcher2",
+		"u": 1623589141638,
+		"x": 10790.446,
+		"y": 5086.829
+	},
+	{
+		"icon": "generic",
+		"name": "9918_MSQ_Researcher4",
+		"u": 1623589229560,
+		"x": 10731.588,
+		"y": 5047.216
+	},
+	{
+		"icon": "generic",
+		"name": "1336_AntiquarianSpouse",
+		"u": 1624453224942,
+		"x": 10975.936,
+		"y": 6675.83
+	},
+	{
+		"icon": "generic",
+		"name": "9904_MSQ_Theophrastus",
+		"u": 1624453826157,
+		"x": 10660.3134765625,
+		"y": 5036.32470703125
+	}
+]

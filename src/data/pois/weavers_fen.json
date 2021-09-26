@@ -1,0 +1,175 @@
+[
+	{
+		"icon": "township",
+		"name": "ui_poi_town_weavers_fen",
+		"u": 1623669855024,
+		"x": 11452.477,
+		"y": 5332.724
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_weaversfen_temple_50338",
+		"u": 1624104383433,
+		"x": 10947.171,
+		"y": 6697.109
+	},
+	{
+		"icon": "wolf_den",
+		"name": "ui_poi_wolf_den_50303",
+		"u": 1623662810064,
+		"x": 11109.665,
+		"y": 6565.61
+	},
+	{
+		"icon": "ancient_temple_sm",
+		"name": "ui_poi_ancient_bridge_50215",
+		"u": 1623922592207,
+		"x": 11379.972,
+		"y": 5592.431
+	},
+	{
+		"icon": "abandoned_fishing_village",
+		"name": "ui_poi_abandoned_fishing_village_50209",
+		"x": 10895.133,
+		"y": 5665.188
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_abandoned_haunted_town_50208",
+		"u": 1623754791926,
+		"x": 10929.902,
+		"y": 5292.465
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_haunted_town_50216",
+		"u": 1624030309008,
+		"x": 11612.132,
+		"y": 5992.998
+	},
+	{
+		"icon": "ancient_temple_sm",
+		"name": "ui_poi_ancient_bridge_50212",
+		"u": 1621192966759,
+		"x": 10964.356,
+		"y": 5118.183
+	},
+	{
+		"icon": "abandoned_fishing_village",
+		"name": "ui_poi_abandoned_fishing_village_50207",
+		"u": 1627608005076,
+		"x": 11005.168,
+		"y": 4785.898
+	},
+	{
+		"icon": "abandoned_fishing_village",
+		"name": "ui_poi_abandoned_fishing_village_50206",
+		"u": 1624279845625,
+		"x": 11447.344,
+		"y": 4404.815
+	},
+	{
+		"icon": "abandoned_farm_village",
+		"name": "ui_poi_abandoned_farm_village_50204",
+		"u": 1624279805175,
+		"x": 11376.375,
+		"y": 4591.601
+	},
+	{
+		"icon": "abandoned_farm_mill",
+		"name": "ui_poi_abandoned_farm_mill_50202",
+		"u": 1624279896533,
+		"x": 11841.716,
+		"y": 4555.305
+	},
+	{
+		"icon": "cave",
+		"name": "ui_poi_abandoned_farm_village_50203",
+		"u": 1624279235631,
+		"x": 11634.695,
+		"y": 4828.755
+	},
+	{
+		"icon": "farmingvillage",
+		"name": "ui_poi_abandoned_farm_village_50203",
+		"u": 1624279179280,
+		"x": 11496.576,
+		"y": 4820.918
+	},
+	{
+		"icon": "abandoned_fishing_village",
+		"name": "ui_poi_abandoned_fishing_village_50205",
+		"u": 1624279141298,
+		"x": 11560.296,
+		"y": 5030.997
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_shipwreck_50210",
+		"u": 1624278187636,
+		"x": 11677.64,
+		"y": 5175.709
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_ancient_ruins_50211",
+		"x": 11915.946,
+		"y": 5288.264
+	},
+	{
+		"icon": "bear_den",
+		"name": "ui_poi_bear_den_50302",
+		"u": 1623657212544,
+		"x": 11871.189,
+		"y": 6172.399
+	},
+	{
+		"icon": "fortress",
+		"name": "ui_poi_fort_weavers_fen",
+		"u": 1623669846943,
+		"x": 11017.25,
+		"y": 5907.5
+	},
+	{
+		"icon": "abandoned_fishing_village",
+		"name": "ui_poi_abandoned_fishing_village_50237",
+		"u": 1624279867806,
+		"x": 11597.5,
+		"y": 4240
+	},
+	{
+		"icon": "abandoned_village_elite",
+		"name": "ui_poi_haunted_town_50201",
+		"u": 1623588100470,
+		"x": 10845.182,
+		"y": 5568.039
+	},
+	{
+		"icon": "bear_elemental_den",
+		"name": "ui_poi_bear_patch_50246",
+		"u": 1623861111890,
+		"x": 10756.521,
+		"y": 5046.451
+	},
+	{
+		"icon": "bear_den",
+		"name": "ui_poi_bear_den_50301",
+		"u": 1624031301032,
+		"x": 11067.149,
+		"y": 6217.848
+	},
+	{
+		"icon": "abandoned_campsite",
+		"name": "ui_poi_crater_corruptedruinedfort_50335",
+		"u": 1624098054313,
+		"x": 10820.959,
+		"y": 6351.536
+	},
+	{
+		"icon": "abandoned_farm_village",
+		"name": "ui_poi_abandoned_farm_village_50223",
+		"u": 1624280426515,
+		"x": 11221.087,
+		"y": 4890
+	}
+]

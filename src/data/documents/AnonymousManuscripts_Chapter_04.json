@@ -1,0 +1,92 @@
+[
+	{
+		"body": "12_MonarchsBluffs_Body_01_07",
+		"chapter": "AnonymousManuscripts_Chapter_04",
+		"pageNumber": 7,
+		"title": "12_MonarchsBluffs_Title_01_07",
+		"topic": "Topic_12_MonarchsBluffs",
+		"u": 1621668146295,
+		"x": 7596.354,
+		"y": 2952.2
+	},
+	{
+		"body": "12_MonarchsBluffs_Body_01_08",
+		"chapter": "AnonymousManuscripts_Chapter_04",
+		"pageNumber": 8,
+		"title": "12_MonarchsBluffs_Title_01_08",
+		"topic": "Topic_12_MonarchsBluffs",
+		"u": 1621692702688,
+		"x": 8060.637,
+		"y": 3032.184
+	},
+	{
+		"body": "12_MonarchsBluffs_Body_01_09",
+		"chapter": "AnonymousManuscripts_Chapter_04",
+		"pageNumber": 9,
+		"title": "12_MonarchsBluffs_Title_01_09",
+		"topic": "Topic_12_MonarchsBluffs",
+		"u": 1621692082176,
+		"x": 8110.872,
+		"y": 3120.3
+	},
+	{
+		"body": "AnonymousManuscripts_Body_04_01",
+		"chapter": "AnonymousManuscripts_Chapter_04",
+		"pageNumber": 1,
+		"title": "AnonymousManuscripts_Title_04_01",
+		"topic": "Topic_12_MonarchsBluffs",
+		"u": 1621689437864,
+		"x": 8081.32,
+		"y": 2796.265
+	},
+	{
+		"body": "AnonymousManuscripts_Body_04_02",
+		"chapter": "AnonymousManuscripts_Chapter_04",
+		"pageNumber": 2,
+		"title": "AnonymousManuscripts_Title_04_02",
+		"topic": "Topic_12_MonarchsBluffs",
+		"u": 1621685699137,
+		"x": 8115.482,
+		"y": 2740.19
+	},
+	{
+		"body": "AnonymousManuscripts_Body_04_03",
+		"chapter": "AnonymousManuscripts_Chapter_04",
+		"pageNumber": 4,
+		"title": "AnonymousManuscripts_Title_04_03",
+		"topic": "Topic_12_MonarchsBluffs",
+		"u": 1621685876072,
+		"x": 8088.204,
+		"y": 2704.199
+	},
+	{
+		"body": "12_MonarchsBluffs_Body_01_06",
+		"chapter": "AnonymousManuscripts_Chapter_04",
+		"pageNumber": 6,
+		"title": "12_MonarchsBluffs_Title_01_06",
+		"topic": "Topic_12_MonarchsBluffs",
+		"u": 1621685216306,
+		"x": 8092.033,
+		"y": 2659.62
+	},
+	{
+		"body": "AnonymousManuscripts_Body_04_04",
+		"chapter": "AnonymousManuscripts_Chapter_04",
+		"pageNumber": 3,
+		"title": "AnonymousManuscripts_Title_04_04",
+		"topic": "Topic_12_MonarchsBluffs",
+		"u": 1621685163381,
+		"x": 8068.646,
+		"y": 2659.075
+	},
+	{
+		"body": "12_MonarchsBluffs_Body_01_05",
+		"chapter": "AnonymousManuscripts_Chapter_04",
+		"pageNumber": 5,
+		"title": "12_MonarchsBluffs_Title_01_05",
+		"topic": "Topic_12_MonarchsBluffs",
+		"u": 1621684655570,
+		"x": 8095.47,
+		"y": 2653.7
+	}
+]

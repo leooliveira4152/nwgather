@@ -1,0 +1,180 @@
+[
+	{
+		"icon": "township",
+		"name": "ui_poi_town_cutlass_keys",
+		"u": 1621107814994,
+		"x": 7924.891,
+		"y": 1923.526
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_ancient_ruins_30011",
+		"u": 1624278200653,
+		"x": 7987.837,
+		"y": 1366.558
+	},
+	{
+		"icon": "ancient_temple_sm",
+		"name": "ui_poi_ancient_bridge_30013",
+		"u": 1624278628940,
+		"x": 7955.966,
+		"y": 1025.564
+	},
+	{
+		"icon": "fortress",
+		"name": "ui_poi_fort_cutlass_keys",
+		"x": 6853.25,
+		"y": 1331.5
+	},
+	{
+		"icon": "cave",
+		"name": "ui_poi_bear_den_30005",
+		"x": 7923.296,
+		"y": 1665.99
+	},
+	{
+		"icon": "cave",
+		"name": "ui_poi_cave_30008",
+		"x": 7625.756,
+		"y": 1602.928
+	},
+	{
+		"icon": "abandoned_fishing_village",
+		"name": "ui_poi_fishing_village_30007",
+		"u": 1624272554873,
+		"x": 7224.487,
+		"y": 1679.622
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_ancient_ruins_30012",
+		"u": 1624279066538,
+		"x": 7727.004,
+		"y": 1135.747
+	},
+	{
+		"icon": "ancient_watchtower",
+		"name": "ui_poi_ancient_tower_30014",
+		"u": 1624278884159,
+		"x": 7769.777,
+		"y": 864.906
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_pirate_village_30022",
+		"u": 1624277311186,
+		"x": 7860.22,
+		"y": 569.394
+	},
+	{
+		"icon": "abandoned_fishing_village",
+		"name": "ui_poi_fishing_village_30015",
+		"u": 1624277095865,
+		"x": 7743.038,
+		"y": 141.089
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_shipwreck_30001",
+		"u": 1624277501290,
+		"x": 8054.727,
+		"y": 323.351
+	},
+	{
+		"icon": "abandoned_fishing_village",
+		"name": "ui_poi_fishing_village_30021",
+		"u": 1624276388627,
+		"x": 7032.87,
+		"y": 330.08
+	},
+	{
+		"icon": "fort",
+		"name": "ui_poi_pirate_fort_30017",
+		"u": 1624276465936,
+		"x": 6881.582,
+		"y": 367.557
+	},
+	{
+		"icon": "abandoned_fishing_village",
+		"name": "ui_poi_fishing_village_30018",
+		"u": 1624276053457,
+		"x": 6558.685,
+		"y": 182.415
+	},
+	{
+		"icon": "ore",
+		"name": "ui_poi_brute_island_30024",
+		"x": 6362.702,
+		"y": 221.36
+	},
+	{
+		"icon": "ore",
+		"name": "ui_poi_ghost_island_30025",
+		"u": 1624275699721,
+		"x": 6508.327,
+		"y": 543.738
+	},
+	{
+		"icon": "ore",
+		"name": "ui_poi_gator_island_30023",
+		"u": 1624275561187,
+		"x": 6524.396,
+		"y": 843.881
+	},
+	{
+		"icon": "wolf_den",
+		"name": "ui_poi_wolf_den_30009",
+		"u": 1624272273064,
+		"x": 7452.5,
+		"y": 1939
+	},
+	{
+		"icon": "cave",
+		"name": "ui_poi_cave_30004",
+		"u": 1624272514832,
+		"x": 7236.36,
+		"y": 1986.14
+	},
+	{
+		"icon": "wolf_den",
+		"name": "ui_poi_wolf_den_30006",
+		"u": 1624272802711,
+		"x": 7648.318,
+		"y": 1724.298
+	},
+	{
+		"icon": "cave",
+		"name": "ui_poi_corrupted_fort_30033",
+		"u": 1624273368681,
+		"x": 7052.75,
+		"y": 1058
+	},
+	{
+		"icon": "abandoned_campsite",
+		"name": "ui_poi_corrupted_camp_30019",
+		"u": 1624273710547,
+		"x": 7010.694,
+		"y": 831.489
+	},
+	{
+		"icon": "fort",
+		"name": "ui_poi_corrupted_fort_30020",
+		"u": 1624276806974,
+		"x": 7243.568,
+		"y": 939.237
+	},
+	{
+		"icon": "cave_elite",
+		"name": "ui_poi_pirate_fort_30016",
+		"u": 1627426612528,
+		"x": 7722.368,
+		"y": 437.215
+	},
+	{
+		"icon": "abandoned_campsite",
+		"name": "ui_poi_corrupted_camp_30010",
+		"u": 1624278293809,
+		"x": 8065.07,
+		"y": 1525.607
+	}
+]

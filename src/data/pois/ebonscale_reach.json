@@ -1,0 +1,150 @@
+[
+	{
+		"icon": "wolf_den",
+		"name": "ui_poi_tiger_cave_30236",
+		"x": 7028,
+		"y": 5317
+	},
+	{
+		"icon": "abandoned_campsite",
+		"name": "ui_poi_dynasty_camp_30237",
+		"x": 7323.77,
+		"y": 5921.873
+	},
+	{
+		"icon": "ancient_temple_sm",
+		"name": "ui_poi_dynasty_mountaintemple_30235",
+		"x": 7002.014,
+		"y": 5592.864
+	},
+	{
+		"icon": "ancient_temple_sm",
+		"name": "ui_poi_dynasty_watershrine_30234",
+		"u": 1624114966199,
+		"x": 7605.354,
+		"y": 5748.377
+	},
+	{
+		"icon": "ancient_temple_sm",
+		"name": "ui_poi_dynasty_earthshrine_30231",
+		"u": 1624114344692,
+		"x": 7857.026,
+		"y": 5351.966
+	},
+	{
+		"icon": "ancient_temple_sm",
+		"name": "ui_poi_dynasty_fireshrine_30228",
+		"u": 1624114274282,
+		"x": 7757.592,
+		"y": 5085.224
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_dryad_ruins_30229",
+		"u": 1624114106188,
+		"x": 7274.473,
+		"y": 4792.242
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_pirate_shipwreck_30226",
+		"x": 7117.483,
+		"y": 4278.358
+	},
+	{
+		"icon": "hero_shipwreck",
+		"name": "ui_poi_dynasty_shipwreck_30227",
+		"u": 1624114132748,
+		"x": 7550,
+		"y": 4851.255
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_dryad_ruins",
+		"u": 1624114394575,
+		"x": 8109.134,
+		"y": 5453.823
+	},
+	{
+		"icon": "abandoned_fishing_village",
+		"name": "ui_poi_pirate_harbor_30239",
+		"x": 6530.958,
+		"y": 5719.827
+	},
+	{
+		"icon": "fort",
+		"name": "ui_poi_dynasty_wall_30242",
+		"x": 6922.719,
+		"y": 6276.325
+	},
+	{
+		"icon": "township",
+		"name": "ui_poi_town_ebonscale_reach",
+		"u": 1621093037729,
+		"x": 7270,
+		"y": 5388
+	},
+	{
+		"icon": "fortress",
+		"name": "ui_poi_fort_ebonscale_reach",
+		"u": 1626801182854,
+		"x": 5906,
+		"y": 5428.25
+	},
+	{
+		"icon": "cave",
+		"name": "ui_poi_dynasty_cavern_30241",
+		"u": 1624107334240,
+		"x": 6542,
+		"y": 4369
+	},
+	{
+		"icon": "ancient_temple_lg",
+		"name": "ui_poi_dynasty_monastery_30240",
+		"u": 1624107566655,
+		"x": 6436,
+		"y": 4664.5
+	},
+	{
+		"icon": "ancient_temple_sm_elite",
+		"name": "ui_poi_empressfortress_20201",
+		"u": 1624110172396,
+		"x": 5663,
+		"y": 4559.75
+	},
+	{
+		"icon": "ancient_temple_sm",
+		"name": "ui_poi_dynasty_bridge_20202",
+		"u": 1624110235980,
+		"x": 5465.5,
+		"y": 4287.5
+	},
+	{
+		"icon": "ancient_temple_sm",
+		"name": "ui_poi_dynasty_shrine_30312",
+		"u": 1624115849240,
+		"x": 7829.5,
+		"y": 6505.5
+	},
+	{
+		"icon": "graveyard",
+		"name": "ui_poi_hauntedcrypt_40338",
+		"u": 1624117193952,
+		"x": 8433,
+		"y": 7150
+	},
+	{
+		"icon": "ancient_temple_sm",
+		"name": "ui_poi_dynasty_temple_40339",
+		"u": 1624117448331,
+		"x": 8293,
+		"y": 6642
+	},
+	{
+		"icon": "wolf_den",
+		"name": "ui_poi_alligator_habitat_40275",
+		"u": 1625207772899,
+		"x": 8273,
+		"y": 5380
+	}
+]

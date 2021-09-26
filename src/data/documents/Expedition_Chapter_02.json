@@ -1,0 +1,76 @@
+[
+	{
+		"body": "Expedition_Body_02_01",
+		"chapter": "Expedition_Chapter_02",
+		"pageNumber": 1,
+		"title": "Expedition_Title_02_01",
+		"topic": "Topic_00_Aeternum",
+		"x": 9686.736,
+		"y": 1655.274
+	},
+	{
+		"body": "Expedition_Body_02_02",
+		"chapter": "Expedition_Chapter_02",
+		"pageNumber": 2,
+		"title": "Expedition_Title_02_02",
+		"topic": "Topic_00_Aeternum",
+		"u": 1624104966218,
+		"x": 9724.437,
+		"y": 2229.568
+	},
+	{
+		"body": "00_Aeternum_Body_06_03",
+		"chapter": "Expedition_Chapter_02",
+		"pageNumber": 3,
+		"title": "00_Aeternum_Title_06_03",
+		"topic": "Topic_00_Aeternum",
+		"x": 10181.87,
+		"y": 7269.981
+	},
+	{
+		"body": "00_Aeternum_Body_06_04",
+		"chapter": "Expedition_Chapter_02",
+		"pageNumber": 4,
+		"title": "00_Aeternum_Title_06_04",
+		"topic": "Topic_00_Aeternum",
+		"x": 9659.724,
+		"y": 7793.066
+	},
+	{
+		"body": "00_Aeternum_Body_06_05",
+		"chapter": "Expedition_Chapter_02",
+		"pageNumber": 5,
+		"title": "00_Aeternum_Title_06_05",
+		"topic": "Topic_00_Aeternum",
+		"x": 9488.289,
+		"y": 7864.023
+	},
+	{
+		"body": "00_Aeternum_Body_06_06",
+		"chapter": "Expedition_Chapter_02",
+		"pageNumber": 6,
+		"title": "00_Aeternum_Title_06_06",
+		"topic": "Topic_00_Aeternum",
+		"u": 1624195604419,
+		"x": 9520.153,
+		"y": 8494.054
+	},
+	{
+		"body": "00_Aeternum_Body_06_07",
+		"chapter": "Expedition_Chapter_02",
+		"pageNumber": 7,
+		"title": "00_Aeternum_Title_06_07",
+		"topic": "Topic_00_Aeternum",
+		"x": 9866.572,
+		"y": 9232.584
+	},
+	{
+		"body": "00_Aeternum_Body_06_08",
+		"chapter": "Expedition_Chapter_02",
+		"pageNumber": 8,
+		"title": "00_Aeternum_Title_06_08",
+		"topic": "Topic_00_Aeternum",
+		"x": 9698.045,
+		"y": 9612.183
+	}
+]

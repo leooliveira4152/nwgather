@@ -1,0 +1,22 @@
+[
+	{
+		"body": "09_FirstLight_Body_06_01",
+		"chapter": "09_FirstLight_Chapter_06",
+		"pageNumber": 1,
+		"title": "09_FirstLight_Title_06_01",
+		"topic": "Topic_09_FirstLight",
+		"u": 1624279889617,
+		"x": 9316.267,
+		"y": 971.486
+	},
+	{
+		"body": "09_FirstLight_Body_06_02",
+		"chapter": "09_FirstLight_Chapter_06",
+		"pageNumber": 2,
+		"title": "09_FirstLight_Title_06_02",
+		"topic": "Topic_09_FirstLight",
+		"u": 1628565287260,
+		"x": 9641.864,
+		"y": 905.95
+	}
+]

@@ -1,0 +1,154 @@
+[
+	{
+		"icon": "generic",
+		"name": "9904c_MSQ_Theophrastus",
+		"u": 1627675810798,
+		"x": 13040.129,
+		"y": 4425.61
+	},
+	{
+		"icon": "generic",
+		"name": "9905d_MSQ_Rima",
+		"u": 1627676455208,
+		"x": 13039.294921875,
+		"y": 4441.72705078125
+	},
+	{
+		"icon": "generic",
+		"name": "1032_Watcher",
+		"u": 1626733825208,
+		"x": 7155.6,
+		"y": 1290.61
+	},
+	{
+		"icon": "generic",
+		"name": "1007_Commander",
+		"u": 1626739307401,
+		"x": 7916.261,
+		"y": 1957.835
+	},
+	{
+		"icon": "generic",
+		"name": "1027_Commander",
+		"u": 1626742684526,
+		"x": 7916.284,
+		"y": 1957.864
+	},
+	{
+		"icon": "generic",
+		"name": "1006_Trader",
+		"x": 7935.887,
+		"y": 1918.663
+	},
+	{
+		"icon": "covenant",
+		"name": "1009_Adjudicator",
+		"x": 7971.062,
+		"y": 1909.301
+	},
+	{
+		"icon": "generic",
+		"name": "1002_Magistrate",
+		"x": 7920.381,
+		"y": 1926.598
+	},
+	{
+		"icon": "generic",
+		"name": "1003_Survivalist",
+		"u": 1627167547748,
+		"x": 7912.475,
+		"y": 1905.385
+	},
+	{
+		"icon": "generic",
+		"name": "1004_Overseer",
+		"x": 7923.848,
+		"y": 1893.657
+	},
+	{
+		"icon": "syndicate",
+		"name": "1008_Alchemist",
+		"u": 1628618512302,
+		"x": 7907.497,
+		"y": 1879.577
+	},
+	{
+		"icon": "generic",
+		"name": "1005_Artificer",
+		"x": 7901.413,
+		"y": 1953.759
+	},
+	{
+		"icon": "generic",
+		"name": "1010_Barkeep",
+		"x": 7937.203,
+		"y": 1962.781
+	},
+	{
+		"icon": "marauder",
+		"name": "1007_Commander",
+		"x": 7917.535,
+		"y": 1955.89
+	},
+	{
+		"icon": "generic",
+		"name": "1001_Watcher",
+		"x": 7887.2,
+		"y": 1984.3
+	},
+	{
+		"icon": "generic",
+		"name": "1034_Navigator",
+		"u": 1624276632590,
+		"x": 6668.482,
+		"y": 458.7
+	},
+	{
+		"icon": "generic",
+		"name": "1035_Chef",
+		"u": 1621089449524,
+		"x": 7779.8,
+		"y": 1684.783
+	},
+	{
+		"icon": "generic",
+		"name": "1023_Fisher",
+		"x": 7704.012,
+		"y": 2096.296
+	},
+	{
+		"icon": "generic",
+		"name": "1030_Tamer",
+		"u": 1621193133356,
+		"x": 7693.434,
+		"y": 1429.423
+	},
+	{
+		"icon": "generic",
+		"name": "1031_SwampWalker",
+		"u": 1621088957925,
+		"x": 7667.656,
+		"y": 1966.589
+	},
+	{
+		"icon": "inn",
+		"name": "1022_Innkeep",
+		"u": 1624446989159,
+		"x": 7897.888,
+		"y": 1940.476
+	},
+	{
+		"icon": "generic",
+		"name": "9905_MSQ_Rima",
+		"u": 1624452516511,
+		"x": 7298.99951171875,
+		"y": 1181
+	},
+	{
+		"icon": "generic",
+		"name": "1033_TreasureHunter",
+		"u": 1624453941782,
+		"x": 7678.2,
+		"y": 1207.9
+	}
+]

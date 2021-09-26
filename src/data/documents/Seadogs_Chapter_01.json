@@ -1,0 +1,22 @@
+[
+	{
+		"body": "Seadogs_Body_01_01",
+		"chapter": "Seadogs_Chapter_01",
+		"pageNumber": 1,
+		"title": "Seadogs_Title_01_01",
+		"topic": "Topic_00_Aeternum",
+		"u": 1626997745042,
+		"x": 9603.879,
+		"y": 2375.02
+	},
+	{
+		"body": "Seadogs_Body_01_02",
+		"chapter": "Seadogs_Chapter_01",
+		"pageNumber": 2,
+		"title": "Seadogs_Title_01_02",
+		"topic": "Topic_00_Aeternum",
+		"u": 1627098317834,
+		"x": 9598.446,
+		"y": 2363.241
+	}
+]

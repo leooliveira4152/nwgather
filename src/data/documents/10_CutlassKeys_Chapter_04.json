@@ -1,0 +1,71 @@
+[
+	{
+		"body": "10_CutlassKeys_Body_04_01",
+		"chapter": "10_CutlassKeys_Chapter_04",
+		"pageNumber": 1,
+		"title": "10_CutlassKeys_Title_04_01",
+		"topic": "Topic_10_CutlassKeys",
+		"u": 1622926881813,
+		"x": 6991.951,
+		"y": 260.852
+	},
+	{
+		"body": "10_CutlassKeys_Body_04_02",
+		"chapter": "10_CutlassKeys_Chapter_04",
+		"pageNumber": 2,
+		"title": "10_CutlassKeys_Title_04_02",
+		"topic": "Topic_10_CutlassKeys",
+		"u": 1623236795203,
+		"x": 7000,
+		"y": 245
+	},
+	{
+		"body": "10_CutlassKeys_Body_04_03",
+		"chapter": "10_CutlassKeys_Chapter_04",
+		"pageNumber": 3,
+		"title": "10_CutlassKeys_Title_04_03",
+		"topic": "Topic_10_CutlassKeys",
+		"u": 1623236793380,
+		"x": 7026,
+		"y": 252
+	},
+	{
+		"body": "10_CutlassKeys_Body_04_04",
+		"chapter": "10_CutlassKeys_Chapter_04",
+		"pageNumber": 4,
+		"title": "10_CutlassKeys_Title_04_04",
+		"topic": "Topic_10_CutlassKeys",
+		"u": 1623236791757,
+		"x": 7044.147,
+		"y": 279.89
+	},
+	{
+		"body": "10_CutlassKeys_Body_04_05",
+		"chapter": "10_CutlassKeys_Chapter_04",
+		"pageNumber": 5,
+		"title": "10_CutlassKeys_Title_04_05",
+		"topic": "Topic_10_CutlassKeys",
+		"u": 1623236790174,
+		"x": 7039.635,
+		"y": 311.1
+	},
+	{
+		"body": "10_CutlassKeys_Body_04_07",
+		"chapter": "10_CutlassKeys_Chapter_04",
+		"pageNumber": 7,
+		"title": "10_CutlassKeys_Title_04_07",
+		"topic": "Topic_10_CutlassKeys",
+		"x": 7081,
+		"y": 297.66
+	},
+	{
+		"body": "10_CutlassKeys_Body_04_06",
+		"chapter": "10_CutlassKeys_Chapter_04",
+		"pageNumber": 6,
+		"title": "10_CutlassKeys_Title_04_06",
+		"topic": "Topic_10_CutlassKeys",
+		"u": 1623236783272,
+		"x": 7067.922,
+		"y": 297.648
+	}
+]

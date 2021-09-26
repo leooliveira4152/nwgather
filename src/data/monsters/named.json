@@ -1,0 +1,833 @@
+[
+	{
+		"elite": true,
+		"level": 43,
+		"name": "VC_Corruption_Entity_Named_00",
+		"u": 1627493351243,
+		"x": 9767,
+		"y": 7720
+	},
+	{
+		"elite": false,
+		"level": 25,
+		"name": "VC_Ghost_Shipwrecked_23_09FL10_Named",
+		"u": 1627731908373,
+		"x": 8436.25,
+		"y": 1342.25
+	},
+	{
+		"elite": false,
+		"level": 53,
+		"name": "VC_Dynasty_Warrior_Named_08QP02",
+		"u": 1627806176159,
+		"x": 6951,
+		"y": 5719
+	},
+	{
+		"level": 23,
+		"name": "VC_Alligator_Black_Named_00",
+		"u": 1630001929767,
+		"x": 10084,
+		"y": 2830
+	},
+	{
+		"level": 25,
+		"name": "VC_Undead_Pistoleer_Named_02",
+		"u": 1630001934610,
+		"x": 10084,
+		"y": 2820
+	},
+	{
+		"level": 25,
+		"name": "VC_Undead_Berserker_Named_00",
+		"u": 1630918685118,
+		"x": 7050,
+		"y": 2105
+	},
+	{
+		"level": 4,
+		"name": "VC_Boar_Named_01",
+		"u": 1631130641946,
+		"x": 7418,
+		"y": 2991
+	},
+	{
+		"level": 16,
+		"name": "VC_Undead_Officer_Named_00",
+		"u": 1631469376177,
+		"x": 8839,
+		"y": 2223
+	},
+	{
+		"name": "VC_Dryad_Prowler_NAMED_07SM09",
+		"x": 10891.583,
+		"y": 9178.341
+	},
+	{
+		"name": "VC_Damned_Cultist_Named_01",
+		"u": 1630802890152,
+		"x": 13745,
+		"y": 8343
+	},
+	{
+		"elite": true,
+		"name": "VC_Damned_Acolyte_Named_00",
+		"x": 14232,
+		"y": 8009
+	},
+	{
+		"elite": true,
+		"name": "Damned_LongSwordsman_Commander_Named_01_VitalsName",
+		"x": 9689.21,
+		"y": 9639.694
+	},
+	{
+		"elite": true,
+		"name": "VC_Ghost_Shipwrecked_Named_02",
+		"x": 11666.45,
+		"y": 5208.117
+	},
+	{
+		"level": 16,
+		"name": "VC_Undead_Officer_17_09FL07_Named_b",
+		"u": 1629143083863,
+		"x": 9016,
+		"y": 1668
+	},
+	{
+		"level": 38,
+		"name": "VC_Ghost_shackled_Named_00",
+		"x": 9552.12,
+		"y": 5546.375
+	},
+	{
+		"level": 16,
+		"name": "VC_Damned_Villager_AxeThrower_F_Named_00",
+		"x": 8648,
+		"y": 3975
+	},
+	{
+		"elite": false,
+		"level": 15,
+		"name": "VC_Undead_Officer_Named_02",
+		"u": 1621323730908,
+		"x": 10491,
+		"y": 4283
+	},
+	{
+		"elite": true,
+		"level": 32,
+		"name": "VC_Dryad_Archer_Named_02",
+		"x": 10050,
+		"y": 4830
+	},
+	{
+		"level": 14,
+		"name": "VC_Undead_Pistoleer_Named_00",
+		"x": 7825.733,
+		"y": 4220.288
+	},
+	{
+		"elite": true,
+		"level": 16,
+		"name": "VC_AncientGuardian_Mage_MSQ_Named",
+		"x": 9596.46,
+		"y": 868.8
+	},
+	{
+		"elite": true,
+		"level": 20,
+		"name": "VC_AncientGuardian_Mage_MSQ_Named",
+		"x": 9649.3,
+		"y": 897.718
+	},
+	{
+		"elite": true,
+		"level": 20,
+		"name": "VC_AncientGuardian_Mage_MSQ_Named",
+		"x": 9467.389,
+		"y": 951.1
+	},
+	{
+		"level": 29,
+		"name": "VC_Corruption_Heavy_Named_MSQ_Ballards",
+		"u": 1627625005418,
+		"x": 8533.938,
+		"y": 5809.52
+	},
+	{
+		"level": 34,
+		"name": "VC_Undead_GraveDigger_Named_02",
+		"u": 1622746390260,
+		"x": 8459.815,
+		"y": 6176.38
+	},
+	{
+		"level": 34,
+		"name": "VC_Dryad_Shaman_Named_00",
+		"u": 1623144252819,
+		"x": 10127.199,
+		"y": 5046.052
+	},
+	{
+		"level": 32,
+		"name": "VC_AncientGuardian_Spearman_Named_10WS04",
+		"u": 1627368897614,
+		"x": 7762.712,
+		"y": 874.845
+	},
+	{
+		"level": 36,
+		"name": "VC_Undead_Berserker_Named_10WS08",
+		"x": 6906.938,
+		"y": 335.693
+	},
+	{
+		"elite": true,
+		"level": 34,
+		"name": "VC_Withered_Brute_Named_10WS07",
+		"u": 1627567403371,
+		"x": 6325.699,
+		"y": 158.397
+	},
+	{
+		"level": 35,
+		"name": "VC_Damned_Villager_Ladel_Named_00",
+		"x": 9144.795,
+		"y": 6288.169
+	},
+	{
+		"level": 29,
+		"name": "VC_Undead_Hunter_Named_00",
+		"u": 1622464599540,
+		"x": 9991.741,
+		"y": 6537.711
+	},
+	{
+		"level": 18,
+		"name": "VC_Damned_1H_Swordsman_M_Named_07",
+		"u": 1621330655449,
+		"x": 8628.81,
+		"y": 5314.842
+	},
+	{
+		"elite": false,
+		"level": 23,
+		"name": "VC_AncientGuardian_Heavy_Named_00",
+		"x": 9405.752,
+		"y": 3162.584
+	},
+	{
+		"level": 33,
+		"name": "VC_Ghost_Plagued_Named_02",
+		"x": 11643.138,
+		"y": 4830.548
+	},
+	{
+		"level": 43,
+		"name": "VC_Undead_Officer_Named_07",
+		"u": 1624270876209,
+		"x": 13104.77,
+		"y": 4809.83
+	},
+	{
+		"level": 42,
+		"name": "VC_Undead_Officer_Named_04",
+		"u": 1624268827151,
+		"x": 13853.206,
+		"y": 5161.311
+	},
+	{
+		"level": 45,
+		"name": "VC_Alligator_Black_Named_01",
+		"x": 13420.582,
+		"y": 5823.625
+	},
+	{
+		"level": 45,
+		"name": "VC_Undead_Hunter_Named_03",
+		"x": 14087.691,
+		"y": 5166.826
+	},
+	{
+		"level": 40,
+		"name": "VC_Ghost_Plagued_Named_04",
+		"x": 10788,
+		"y": 5655.25
+	},
+	{
+		"level": 40,
+		"name": "VC_Undead_Hunter_Named_01",
+		"x": 10923.624,
+		"y": 5549.744
+	},
+	{
+		"elite": true,
+		"level": 66,
+		"name": "VC_Undead_Officer_Named_ELITE_05WC11",
+		"x": 11448.669,
+		"y": 2569.233
+	},
+	{
+		"elite": true,
+		"level": 65,
+		"name": "VC_Undead_Navigator_Named_ELITE_05WC11",
+		"x": 11408.336,
+		"y": 2972.829
+	},
+	{
+		"elite": true,
+		"level": 65,
+		"name": "VC_Undead_Pistoleer_Named_ELITE_05WC11",
+		"x": 11378.624,
+		"y": 2828.433
+	},
+	{
+		"elite": true,
+		"level": 66,
+		"name": "VC_Undead_Pirate_Brute_Named_05WC11",
+		"x": 11638.65,
+		"y": 2660.791
+	},
+	{
+		"elite": true,
+		"level": 54,
+		"name": "VC_BearElemental_Named_08QP03",
+		"x": 7255.25,
+		"y": 4791
+	},
+	{
+		"elite": true,
+		"level": 60,
+		"name": "VC_Bobcat_Named_08QP05",
+		"u": 1623080186012,
+		"x": 7017.183,
+		"y": 4264.342
+	},
+	{
+		"elite": true,
+		"level": 59,
+		"name": "VC_Wolf_Alpha_Named_08QP05",
+		"x": 7146.138,
+		"y": 4236.442
+	},
+	{
+		"elite": true,
+		"level": 60,
+		"name": "VC_Damned_GreatAxeman_M-F_Named_01",
+		"u": 1623080197435,
+		"x": 6515,
+		"y": 4367
+	},
+	{
+		"elite": true,
+		"level": 60,
+		"name": "VC_Bear_Black_Named_08QP06",
+		"u": 1623080195659,
+		"x": 6409,
+		"y": 4788
+	},
+	{
+		"level": 25,
+		"name": "VC_Undead_Berserker_Named_06",
+		"u": 1621113819017,
+		"x": 10004.018,
+		"y": 3043.775
+	},
+	{
+		"elite": true,
+		"level": 15,
+		"name": "VC_Ghost_Frozen_12MB02_Named",
+		"u": 1621233181338,
+		"x": 8261.901,
+		"y": 3819.83
+	},
+	{
+		"level": 8,
+		"name": "VC_Damned_1H_Swordsman_M_Named_00",
+		"u": 1621235727094,
+		"x": 8660.521,
+		"y": 4455.641
+	},
+	{
+		"elite": true,
+		"level": 21,
+		"name": "VC_Withered_Brute_Named_00",
+		"u": 1621677351640,
+		"x": 7626.793,
+		"y": 2986.715
+	},
+	{
+		"level": 23,
+		"name": "VC_Ghost_shackled_Named_01",
+		"u": 1621695193483,
+		"x": 9971.447,
+		"y": 3220
+	},
+	{
+		"elite": true,
+		"level": 16,
+		"name": "VC_Withered_Brute_Named_05",
+		"u": 1621713531607,
+		"x": 7820.418,
+		"y": 3581.273
+	},
+	{
+		"level": 25,
+		"name": "VC_Undead_Berserker_Named_07",
+		"u": 1622036467952,
+		"x": 6803.282,
+		"y": 2206.467
+	},
+	{
+		"elite": true,
+		"level": 25,
+		"name": "VC_Undead_Berserker_Named_03",
+		"u": 1622036890895,
+		"x": 6681.948,
+		"y": 2486.3
+	},
+	{
+		"elite": true,
+		"level": 35,
+		"name": "VC_Bear_Grizzly_Named_00",
+		"u": 1622055201510,
+		"x": 10519.441,
+		"y": 6316.27
+	},
+	{
+		"level": 8,
+		"name": "VC_Withered_Grunt_Named_12MB10",
+		"u": 1622057163489,
+		"x": 7739.911,
+		"y": 3733.457
+	},
+	{
+		"elite": true,
+		"level": 61,
+		"name": "VC_Corruption_Heavy_Named_07SM04_ELITE",
+		"u": 1622287766992,
+		"x": 9515,
+		"y": 8506
+	},
+	{
+		"elite": true,
+		"level": 60,
+		"name": "VC_Damned_Priest_Named_00",
+		"u": 1622287837067,
+		"x": 8700,
+		"y": 7750
+	},
+	{
+		"level": 35,
+		"name": "VC_Damned_GreatHammer_Named_01",
+		"u": 1622406270504,
+		"x": 9148.259,
+		"y": 6260.308
+	},
+	{
+		"elite": false,
+		"level": 35,
+		"name": "VC_Mountain_Lion_Named_00",
+		"u": 1622442393580,
+		"x": 8812,
+		"y": 6450
+	},
+	{
+		"elite": true,
+		"level": 60,
+		"name": "VC_Corrupted_Ogre_Named_00",
+		"u": 1622462039480,
+		"x": 8000,
+		"y": 7770
+	},
+	{
+		"elite": true,
+		"level": 65,
+		"name": "VC_Damned_Priest_Named_07SM06b_ELITE",
+		"u": 1622479928595,
+		"x": 9816.076,
+		"y": 9521.466
+	},
+	{
+		"elite": true,
+		"level": 28,
+		"name": "VC_Withered_Brute_Named_06",
+		"u": 1622530758765,
+		"x": 9050.02,
+		"y": 5294.249
+	},
+	{
+		"level": 30,
+		"name": "VC_Damned_1H_Swordsman_M_Named_02",
+		"u": 1622541504943,
+		"x": 9260.332,
+		"y": 5806.825
+	},
+	{
+		"level": 27,
+		"name": "VC_Undead_Javelineer_Named_01",
+		"u": 1622541545257,
+		"x": 9014.51,
+		"y": 5473.14
+	},
+	{
+		"level": 27,
+		"name": "VC_Ghost_Shipwrecked_Named_04",
+		"u": 1622541593127,
+		"x": 9201.934,
+		"y": 5309.874
+	},
+	{
+		"elite": true,
+		"level": 30,
+		"name": "VC_Withered_Brute_Named_04",
+		"u": 1622547834083,
+		"x": 9750,
+		"y": 5795
+	},
+	{
+		"elite": true,
+		"level": 64,
+		"name": "VC_Damned_Priest_Named_07SM06",
+		"u": 1622710412062,
+		"x": 9890.297,
+		"y": 9490.719
+	},
+	{
+		"elite": true,
+		"level": 65,
+		"name": "VC_Damned_Priest_Named_07SM06a_ELITE",
+		"u": 1622713744692,
+		"x": 9750.588,
+		"y": 9580.875
+	},
+	{
+		"elite": true,
+		"level": 40,
+		"name": "VC_Undead_Officer_Named_10WS09",
+		"u": 1622716169057,
+		"x": 7758.17,
+		"y": 393.915
+	},
+	{
+		"elite": true,
+		"level": 40,
+		"name": "VC_Undead_Pirate_Brute_Named_ELITE_10WS09_00",
+		"u": 1622716310263,
+		"x": 7746.928,
+		"y": 412.499
+	},
+	{
+		"elite": true,
+		"level": 40,
+		"name": "VC_Undead_Pirate_Brute_Named_ELITE_10WS09_01",
+		"u": 1622716392647,
+		"x": 7743.741,
+		"y": 412.757
+	},
+	{
+		"level": 45,
+		"name": "VC_Alligator_Strange_Named_03GC02",
+		"u": 1622730609486,
+		"x": 9004,
+		"y": 7191
+	},
+	{
+		"level": 48,
+		"name": "VC_Withered_Grunt_Named_03GC01",
+		"u": 1622731182286,
+		"x": 9040,
+		"y": 6733
+	},
+	{
+		"level": 30,
+		"name": "VC_Undead_Javelineer_Named_02",
+		"u": 1622975741988,
+		"x": 9734.051,
+		"y": 5781.615
+	},
+	{
+		"level": 40,
+		"name": "VC_Ghost_Shackled_Named_04",
+		"u": 1623758464799,
+		"x": 10984.063,
+		"y": 5338.667
+	},
+	{
+		"level": 35,
+		"name": "VC_Undead_Javelineer_Named_00",
+		"u": 1623861172308,
+		"x": 11196.399,
+		"y": 5063.743
+	},
+	{
+		"elite": true,
+		"level": 62,
+		"name": "VC_BearElemental_Named_05WC03",
+		"u": 1624040701908,
+		"x": 10729.5,
+		"y": 4498.75
+	},
+	{
+		"level": 60,
+		"name": "VC_Undead_Pirate_Brute_Named_05WC05c",
+		"u": 1624046449726,
+		"x": 12064.5,
+		"y": 3567.75
+	},
+	{
+		"elite": true,
+		"level": 62,
+		"name": "VC_Undead_Pirate_Brute_Named_05WC08",
+		"u": 1624047177118,
+		"x": 11474,
+		"y": 3350
+	},
+	{
+		"elite": true,
+		"level": 55,
+		"name": "VC_Boar_Stripped_Named_08QP03",
+		"u": 1624108704985,
+		"x": 7097.072,
+		"y": 4977.83
+	},
+	{
+		"elite": true,
+		"level": 62,
+		"name": "VC_Bear_Grizzly_Named_08QP08",
+		"u": 1624111941666,
+		"x": 5538.5,
+		"y": 4660.5
+	},
+	{
+		"level": 39,
+		"name": "VC_Damned_1H_Swordsman_M_Named_06",
+		"u": 1624173602739,
+		"x": 10849.087,
+		"y": 6339.368
+	},
+	{
+		"level": 42,
+		"name": "VC_Damned_Rifleman_Female_Named_00",
+		"u": 1624184736682,
+		"x": 9462,
+		"y": 6882
+	},
+	{
+		"level": 42,
+		"name": "VC_Damned_Rifleman_Male_Named_03GC06",
+		"u": 1624184894198,
+		"x": 9568,
+		"y": 7265
+	},
+	{
+		"elite": true,
+		"level": 50,
+		"name": "VC_Damned_LongSwordsman_Commander_Named_03GC09_ELITE",
+		"u": 1624195106745,
+		"x": 9464,
+		"y": 8324
+	},
+	{
+		"elite": true,
+		"level": 61,
+		"name": "VC_Damned_Pistoleer_Female_Named_07SM04_ELITE",
+		"u": 1624195814034,
+		"x": 9582.563,
+		"y": 8667.736
+	},
+	{
+		"level": 62,
+		"name": "VC_Corruption_Heavy_Named_07SM05b",
+		"u": 1624196678401,
+		"x": 9632.863,
+		"y": 9126.73
+	},
+	{
+		"elite": true,
+		"level": 64,
+		"name": "VC_Bear_Damned_Named_07SM03_ELITE",
+		"u": 1624202400045,
+		"x": 10028.75,
+		"y": 8916
+	},
+	{
+		"level": 62,
+		"name": "VC_Ancient_Guardian_Mage_Named_07SM07",
+		"u": 1624202633657,
+		"x": 10110.654,
+		"y": 8798.36
+	},
+	{
+		"level": 62,
+		"name": "VC_Ancient_Guardian_Javelineer_Named_07SM07",
+		"u": 1624202640678,
+		"x": 9919.266,
+		"y": 8633.726
+	},
+	{
+		"elite": true,
+		"level": 62,
+		"name": "VC_Dryad_Beast_Named_00",
+		"u": 1624207129895,
+		"x": 11654.19,
+		"y": 7864.485
+	},
+	{
+		"level": 55,
+		"name": "VC_Damned_Rifleman_Male_Named_01",
+		"u": 1624211844960,
+		"x": 11115.214,
+		"y": 6763.591
+	},
+	{
+		"level": 55,
+		"name": "VC_Damned_1H_Swordsman_M_Named_01",
+		"u": 1624212037362,
+		"x": 11326.578,
+		"y": 6655.703
+	},
+	{
+		"level": 49,
+		"name": "VC_AncientGuardian_Reaver_Named_00",
+		"u": 1624222375474,
+		"x": 12758,
+		"y": 7250
+	},
+	{
+		"level": 46,
+		"name": "VC_AncientGuardian_Spearman_Named_01",
+		"u": 1624222871385,
+		"x": 12770,
+		"y": 6537
+	},
+	{
+		"level": 48,
+		"name": "VC_Wolf_Alpha_Named_00",
+		"u": 1624223016525,
+		"x": 13092,
+		"y": 8116
+	},
+	{
+		"level": 48,
+		"name": "VC_AncientGuardian_Mage_Named_00",
+		"u": 1624223339156,
+		"x": 13089,
+		"y": 7858
+	},
+	{
+		"level": 47,
+		"name": "VC_Undead_Officer_Named_06",
+		"u": 1624223825189,
+		"x": 13993,
+		"y": 7496
+	},
+	{
+		"level": 48,
+		"name": "VC_Undead_GraveDigger_Named_01",
+		"u": 1624224848100,
+		"x": 13464.5,
+		"y": 7667
+	},
+	{
+		"level": 50,
+		"name": "VC_AncientGuardian_Javelineer_Named_01",
+		"u": 1624225028641,
+		"x": 13445,
+		"y": 7213
+	},
+	{
+		"level": 46,
+		"name": "VC_Ghost_Starved_Named_03",
+		"u": 1624225107749,
+		"x": 13460,
+		"y": 7015
+	},
+	{
+		"level": 47,
+		"name": "VC_Ghost_shackled_Named_03",
+		"u": 1624225253037,
+		"x": 13667,
+		"y": 7216
+	},
+	{
+		"level": 42,
+		"name": "VC_Wolf_Alpha_Named_00",
+		"u": 1624226689454,
+		"x": 12614.725,
+		"y": 5795.492
+	},
+	{
+		"level": 46,
+		"name": "VC_Boar_Stripped_Named_00",
+		"u": 1624267013087,
+		"x": 13199.332,
+		"y": 5824.316
+	},
+	{
+		"level": 45,
+		"name": "VC_Undead_Officer_Named_05",
+		"u": 1624267397674,
+		"x": 13419.792,
+		"y": 5877.49
+	},
+	{
+		"elite": true,
+		"level": 46,
+		"name": "VC_AncientGuardian_Reaver_Named_01",
+		"u": 1624268215598,
+		"x": 13501,
+		"y": 5169
+	},
+	{
+		"level": 40,
+		"name": "VC_Ghost_Shipwrecked_Named_03",
+		"u": 1624269422387,
+		"x": 13423,
+		"y": 4814.5
+	},
+	{
+		"elite": false,
+		"level": 46,
+		"name": "VC_Ghost_Plagued_Named_03",
+		"u": 1624271032291,
+		"x": 13454.161,
+		"y": 4663.328
+	},
+	{
+		"level": 30,
+		"name": "VC_Withered_Grunt_Named_10WS03",
+		"u": 1624272580599,
+		"x": 7251.101,
+		"y": 1706.847
+	},
+	{
+		"level": 25,
+		"name": "VC_Undead_Officer_24_ELITE_09FL09_Named",
+		"u": 1624280276231,
+		"x": 9699,
+		"y": 1719
+	},
+	{
+		"level": 18,
+		"name": "VC_Undead_Officer_17_09FL07_Named_a",
+		"u": 1624280672655,
+		"x": 9016.07,
+		"y": 1783.264
+	},
+	{
+		"level": 11,
+		"name": "VC_Damned_Villager_Ladle_11_09FL04_Named",
+		"u": 1624281196938,
+		"x": 8615.938,
+		"y": 1408.634
+	},
+	{
+		"level": 16,
+		"name": "VC_Bear_Grizzly_Named_01",
+		"u": 1624281887977,
+		"x": 9294.75,
+		"y": 2252.25
+	}
+]

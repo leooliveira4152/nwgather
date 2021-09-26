@@ -1,0 +1,102 @@
+[
+	{
+		"body": "Lore_Body_Arch_TheObelisks",
+		"chapter": "Lore_Chapter_Archaeologist",
+		"pageNumber": 10,
+		"title": "Lore_Title_Arch_TheObelisks",
+		"topic": "Topic_06_Windsward",
+		"u": 1623220263866,
+		"x": 9121.665,
+		"y": 3270.759
+	},
+	{
+		"body": "Lore_Body_Arch_Departure",
+		"chapter": "Lore_Chapter_Archaeologist",
+		"pageNumber": 2,
+		"title": "Lore_Title_Arch_Departure",
+		"topic": "Topic_06_Windsward",
+		"u": 1621116754789,
+		"x": 8856.493,
+		"y": 2608.438
+	},
+	{
+		"body": "Lore_Body_Arch_AnUntouchedPiano",
+		"chapter": "Lore_Chapter_Archaeologist",
+		"pageNumber": 1,
+		"title": "Lore_Title_Arch_AnUntouchedPiano",
+		"topic": "Topic_06_Windsward",
+		"u": 1621117240790,
+		"x": 8919.287,
+		"y": 2686.23
+	},
+	{
+		"body": "Lore_Body_Arch_Rolfe",
+		"chapter": "Lore_Chapter_Archaeologist",
+		"pageNumber": 3,
+		"title": "Lore_Title_Arch_Rolfe",
+		"topic": "Topic_06_Windsward",
+		"u": 1622029083869,
+		"x": 9080.551,
+		"y": 2894.789
+	},
+	{
+		"body": "Lore_Body_Arch_Misfortune",
+		"chapter": "Lore_Chapter_Archaeologist",
+		"pageNumber": 9,
+		"title": "Lore_Title_Arch_Misfortune",
+		"topic": "Topic_06_Windsward",
+		"u": 1622898804706,
+		"x": 9287.378,
+		"y": 3066.19
+	},
+	{
+		"body": "Lore_Body_Arch_Excavation",
+		"chapter": "Lore_Chapter_Archaeologist",
+		"pageNumber": 5,
+		"title": "Lore_Title_Arch_Excavation",
+		"topic": "Topic_06_Windsward",
+		"u": 1622898831912,
+		"x": 9326.372,
+		"y": 3057.7
+	},
+	{
+		"body": "Lore_Body_Arch_TheDigSite",
+		"chapter": "Lore_Chapter_Archaeologist",
+		"pageNumber": 4,
+		"title": "Lore_Title_Arch_TheDigSite",
+		"topic": "Topic_06_Windsward",
+		"u": 1622898863803,
+		"x": 9331.646,
+		"y": 3010.1
+	},
+	{
+		"body": "Lore_Body_Arch_GrowingFears",
+		"chapter": "Lore_Chapter_Archaeologist",
+		"pageNumber": 11,
+		"title": "Lore_Title_Arch_GrowingFears",
+		"topic": "Topic_06_Windsward",
+		"u": 1623220256159,
+		"x": 9349.18,
+		"y": 3284.85
+	},
+	{
+		"body": "Lore_Body_Arch_AzureFlames",
+		"chapter": "Lore_Chapter_Archaeologist",
+		"pageNumber": 14,
+		"title": "Lore_Title_Arch_AzureFlames",
+		"topic": "Topic_06_Windsward",
+		"u": 1623222263767,
+		"x": 9438.479,
+		"y": 3131.218
+	},
+	{
+		"body": "Lore_Body_Arch_TheSpire",
+		"chapter": "Lore_Chapter_Archaeologist",
+		"pageNumber": 12,
+		"title": "Lore_Title_Arch_TheSpire",
+		"topic": "Topic_06_Windsward",
+		"u": 1624283255395,
+		"x": 9596.512,
+		"y": 3385.567
+	}
+]

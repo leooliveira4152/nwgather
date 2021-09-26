@@ -1,0 +1,80 @@
+[
+	{
+		"body": "00_Aeternum_Body_15_04",
+		"chapter": "00_Aeternum_Chapter_15",
+		"pageNumber": 4,
+		"title": "00_Aeternum_Title_15_04",
+		"topic": "Topic_00_Aeternum",
+		"x": 8928.317,
+		"y": 4325.718
+	},
+	{
+		"body": "00_Aeternum_Body_15_05",
+		"chapter": "00_Aeternum_Chapter_15",
+		"pageNumber": 5,
+		"title": "00_Aeternum_Title_15_05",
+		"topic": "Topic_00_Aeternum",
+		"u": 1624199904471,
+		"x": 7380.29,
+		"y": 3731.114
+	},
+	{
+		"body": "00_Aeternum_Body_15_01",
+		"chapter": "00_Aeternum_Chapter_15",
+		"pageNumber": 1,
+		"title": "00_Aeternum_Title_15_01",
+		"topic": "Topic_09_FirstLight",
+		"u": 1627470778663,
+		"x": 8811.098,
+		"y": 705.891
+	},
+	{
+		"body": "00_Aeternum_Body_15_01",
+		"chapter": "00_Aeternum_Chapter_15",
+		"pageNumber": 1,
+		"title": "00_Aeternum_Title_15_01",
+		"topic": "Topic_00_Aeternum",
+		"u": 1624199830317,
+		"x": 7365.744,
+		"y": 3681.417
+	},
+	{
+		"body": "00_Aeternum_Body_15_01",
+		"chapter": "00_Aeternum_Chapter_15",
+		"pageNumber": 1,
+		"title": "00_Aeternum_Title_15_01",
+		"topic": "Topic_00_Aeternum",
+		"u": 1627932125620,
+		"x": 8922.724,
+		"y": 4288.487
+	},
+	{
+		"body": "00_Aeternum_Body_15_01",
+		"chapter": "00_Aeternum_Chapter_15",
+		"pageNumber": 1,
+		"title": "00_Aeternum_Title_15_01",
+		"topic": "Topic_00_Aeternum",
+		"u": 1627103104476,
+		"x": 9284.182,
+		"y": 2683.187
+	},
+	{
+		"body": "00_Aeternum_Body_15_02",
+		"chapter": "00_Aeternum_Chapter_15",
+		"pageNumber": 2,
+		"title": "00_Aeternum_Title_15_02",
+		"topic": "Topic_00_Aeternum",
+		"u": 1627129708329,
+		"x": 8883.678,
+		"y": 682.57
+	},
+	{
+		"body": "00_Aeternum_Body_15_03",
+		"chapter": "00_Aeternum_Chapter_15",
+		"pageNumber": 3,
+		"title": "00_Aeternum_Title_15_03",
+		"topic": "Topic_00_Aeternum",
+		"x": 8943.835,
+		"y": 2626.346
+	}
+]

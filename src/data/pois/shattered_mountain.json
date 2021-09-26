@@ -1,0 +1,200 @@
+[
+	{
+		"icon": "outpost",
+		"name": "ui_poi_outpost_54_1_50401",
+		"x": 10330.437,
+		"y": 8923.249
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_ancientcave_40415",
+		"x": 9964.146,
+		"y": 8755.248
+	},
+	{
+		"icon": "fort",
+		"name": "ui_poi_corruptedfort_40417",
+		"x": 9889.986,
+		"y": 8949.744
+	},
+	{
+		"icon": "fort",
+		"name": "ui_poi_corrupted_fort_provisioning_01_40404",
+		"u": 1624201867646,
+		"x": 10063.3,
+		"y": 9159.01
+	},
+	{
+		"icon": "angryearth_cave",
+		"name": "ui_poi_blightcave_50412",
+		"x": 10465.964,
+		"y": 9172.761
+	},
+	{
+		"icon": "angryearth_cave",
+		"name": "ui_poi_blightcave_50413",
+		"u": 1624203463513,
+		"x": 10701.376,
+		"y": 8920.223
+	},
+	{
+		"icon": "angryearth_cave",
+		"name": "ui_poi_blightcave_50414",
+		"u": 1624203465067,
+		"x": 10855.5,
+		"y": 8906.75
+	},
+	{
+		"icon": "ancient_temple_lg",
+		"name": "ui_poi_dryadgate_50419",
+		"u": 1624203527991,
+		"x": 10996.308,
+		"y": 8999.417
+	},
+	{
+		"icon": "angryearth_grovealtar",
+		"name": "ui_poi_dryadlookout_50418",
+		"u": 1624203212000,
+		"x": 10895.632,
+		"y": 9140.069
+	},
+	{
+		"icon": "angryearth_cave",
+		"name": "ui_poi_blightcave_50420",
+		"u": 1624203207130,
+		"x": 10789.996,
+		"y": 9230.095
+	},
+	{
+		"icon": "angryearth_cave",
+		"name": "ui_poi_blightcave_50417",
+		"u": 1624202949193,
+		"x": 10661.888,
+		"y": 9474.843
+	},
+	{
+		"icon": "angryearth_cave",
+		"name": "ui_poi_blightcave_50415",
+		"u": 1624202942413,
+		"x": 10578.188,
+		"y": 9407.38
+	},
+	{
+		"icon": "angryearth_grove",
+		"name": "ui_poi_blightgrove_50416",
+		"u": 1624202936476,
+		"x": 10596.124,
+		"y": 9322.203
+	},
+	{
+		"icon": "fort",
+		"name": "ui_poi_corrupted_fort_weaving_01_40401",
+		"u": 1624196038543,
+		"x": 9667.984,
+		"y": 8822.933
+	},
+	{
+		"icon": "fort",
+		"name": "ui_poi_corrupted_fort_alchemy_01_40403",
+		"u": 1624196104619,
+		"x": 9548.161,
+		"y": 8896.216
+	},
+	{
+		"icon": "outpost",
+		"name": "ui_poi_outpost_44_1_40406",
+		"x": 9215.75,
+		"y": 9052.542
+	},
+	{
+		"icon": "fort",
+		"name": "ui_poi_corrupted_fort_tannery_01_40402",
+		"u": 1624197809765,
+		"x": 9090,
+		"y": 9395
+	},
+	{
+		"icon": "abandoned_farm_village",
+		"name": "ui_poi_village_40418",
+		"u": 1624198268684,
+		"x": 9011,
+		"y": 9556
+	},
+	{
+		"icon": "ancient_temple_sm",
+		"name": "ui_poi_riftwest_40414",
+		"u": 1622481337121,
+		"x": 9508.657,
+		"y": 9214.682
+	},
+	{
+		"icon": "fort_elite",
+		"name": "ui_poi_damnedfortress_40408",
+		"u": 1624195424547,
+		"x": 9479.5,
+		"y": 8678
+	},
+	{
+		"icon": "ancient_temple_sm",
+		"name": "ui_poi_rifteast_40413",
+		"u": 1624196553253,
+		"x": 9785.874,
+		"y": 9093.933
+	},
+	{
+		"icon": "mine_elite",
+		"name": "ui_poi_lowermine_40419",
+		"u": 1624197307167,
+		"x": 9058.306,
+		"y": 9276.611
+	},
+	{
+		"icon": "mine_elite",
+		"name": "ui_poi_uppermine_40420",
+		"u": 1624197515009,
+		"x": 8879.755,
+		"y": 9256.392
+	},
+	{
+		"icon": "ancient_shrine_elite",
+		"name": "ui_poi_myrkgardwest_40407",
+		"u": 1624198783223,
+		"x": 9503.5,
+		"y": 9458.5
+	},
+	{
+		"icon": "outpost_elite",
+		"name": "ui_poi_myrkgardsouth_40409",
+		"u": 1624201100124,
+		"x": 9795.75,
+		"y": 9388
+	},
+	{
+		"icon": "abandonedcity_elite",
+		"name": "ui_poi_myrkgardnorth_40411",
+		"u": 1624201107528,
+		"x": 9768.75,
+		"y": 9543.75
+	},
+	{
+		"icon": "graveyard_elite",
+		"name": "ui_poi_myrkgardchurch_40412",
+		"u": 1624201511119,
+		"x": 9694.5,
+		"y": 9619.5
+	},
+	{
+		"icon": "damnedcapitalcity_elite",
+		"name": "ui_poi_myrkgardeast_40410",
+		"u": 1624201753675,
+		"x": 9941,
+		"y": 9507.75
+	},
+	{
+		"icon": "bear_elemental_den",
+		"name": "ui_poi_bearden_40416",
+		"u": 1624202489647,
+		"x": 10029.875,
+		"y": 8909.605
+	}
+]

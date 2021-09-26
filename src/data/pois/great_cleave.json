@@ -1,0 +1,207 @@
+[
+	{
+		"icon": "damnedcapitalcity",
+		"name": "ui_poi_greatcleavesouthwall_40301",
+		"x": 9470.822,
+		"y": 6890.574
+	},
+	{
+		"icon": "mine",
+		"name": "ui_poi_mine_40305",
+		"x": 9705,
+		"y": 7590
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_abandoned_village_40308",
+		"x": 9532.432,
+		"y": 7224.149
+	},
+	{
+		"icon": "cave",
+		"name": "ui_poi_wolf_cave_40331",
+		"u": 1622456606346,
+		"x": 9883,
+		"y": 7517
+	},
+	{
+		"icon": "fort",
+		"name": "ui_poi_corrupted_fort_outfitting_00_40316",
+		"u": 1624185138076,
+		"x": 9535,
+		"y": 7540
+	},
+	{
+		"icon": "ancient_temple_sm",
+		"name": "ui_poi_ancient_bridge_40329",
+		"x": 9567,
+		"y": 7783
+	},
+	{
+		"icon": "cave",
+		"name": "ui_poi_wolf_cave_40332",
+		"u": 1622457627247,
+		"x": 10178,
+		"y": 7931
+	},
+	{
+		"icon": "ancient_shrine",
+		"name": "ui_poi_ancient_shrine_40313",
+		"u": 1622458406465,
+		"x": 10053,
+		"y": 8022
+	},
+	{
+		"icon": "ancient_temple_sm",
+		"name": "ui_poi_ancient_ruins_40330",
+		"u": 1622454244740,
+		"x": 10195,
+		"y": 7300
+	},
+	{
+		"icon": "ancient_shrine",
+		"name": "ui_poi_ancient_shrine_40311",
+		"u": 1622455263404,
+		"x": 10150,
+		"y": 6885
+	},
+	{
+		"icon": "fort",
+		"name": "ui_poi_corrupted_fort_provisioning_00_40317",
+		"u": 1622729595811,
+		"x": 9266,
+		"y": 7730
+	},
+	{
+		"icon": "cave",
+		"name": "ui_poi_wolf_cave_40334",
+		"u": 1622729793953,
+		"x": 9314,
+		"y": 7493
+	},
+	{
+		"icon": "fort",
+		"name": "ui_poi_corrupted_fort_alchemy_00_40315",
+		"u": 1622731941943,
+		"x": 9038,
+		"y": 8080
+	},
+	{
+		"icon": "fort",
+		"name": "ui_poi_corrupted_fort_weaving_00_40319",
+		"u": 1624194868311,
+		"x": 9708,
+		"y": 8050
+	},
+	{
+		"icon": "fort",
+		"name": "ui_poi_corrupted_fort_blacksmith_00_40318",
+		"u": 1624194629013,
+		"x": 9487,
+		"y": 7970
+	},
+	{
+		"icon": "graveyard",
+		"name": "ui_poi_graveyard_40320",
+		"u": 1622730923355,
+		"x": 9008,
+		"y": 6970
+	},
+	{
+		"icon": "abandoned_farm_village",
+		"name": "ui_poi_abandoned_farm_village_40303",
+		"u": 1622730924543,
+		"x": 8980,
+		"y": 6830
+	},
+	{
+		"icon": "ancient_shrine",
+		"name": "ui_poi_ancient_shrine_40314",
+		"u": 1624194540922,
+		"x": 9336,
+		"y": 8000
+	},
+	{
+		"icon": "outpost_compass",
+		"name": "ui_poi_outpost_shatteredmountain_b",
+		"x": 9215,
+		"y": 9052
+	},
+	{
+		"icon": "outpost",
+		"name": "ui_poi_outpost_43_2_40325",
+		"u": 1622455922564,
+		"x": 10065,
+		"y": 7505
+	},
+	{
+		"icon": "outpost",
+		"name": "ui_poi_outpost_greatcleave_a",
+		"u": 1622728657098,
+		"x": 8875,
+		"y": 7940
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_abandoned_village_40307",
+		"u": 1624191946461,
+		"x": 9016,
+		"y": 7761
+	},
+	{
+		"icon": "ancient_temple_sm_elite",
+		"name": "ui_poi_abandoned_village_40309",
+		"u": 1624192714210,
+		"x": 8453.25,
+		"y": 7428.5
+	},
+	{
+		"icon": "ancient_temple_sm_elite",
+		"name": "ui_poi_beastencounter_30301",
+		"u": 1624193080784,
+		"x": 7985.5,
+		"y": 7774
+	},
+	{
+		"icon": "ancient_temple_sm_elite",
+		"name": "ui_poi_corrupted_ritual_40304",
+		"u": 1624193339937,
+		"x": 8295.5,
+		"y": 7610.5
+	},
+	{
+		"icon": "ancient_shrine_elite",
+		"name": "ui_poi_ancient_shrine_40312",
+		"u": 1624193667284,
+		"x": 8698,
+		"y": 7695
+	},
+	{
+		"icon": "ancient_temple_sm_elite",
+		"name": "ui_poi_corrupted_ritual_40343",
+		"u": 1624193979878,
+		"x": 8404.25,
+		"y": 8194.2
+	},
+	{
+		"icon": "cave",
+		"name": "ui_poi_wolf_cave_40333",
+		"u": 1624194156482,
+		"x": 8764.25,
+		"y": 8100.75
+	},
+	{
+		"icon": "abandoned_campsite",
+		"name": "ui_poi_corrupted_camp_40302",
+		"u": 1624194998338,
+		"x": 9471,
+		"y": 8110
+	},
+	{
+		"icon": "military_camp_elite",
+		"name": "ui_poi_military_camp_40405",
+		"u": 1624195377158,
+		"x": 9535.75,
+		"y": 8323
+	}
+]

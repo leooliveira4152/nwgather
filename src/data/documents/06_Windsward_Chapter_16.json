@@ -1,0 +1,32 @@
+[
+	{
+		"body": "06_Windsward_Body_16_03",
+		"chapter": "06_Windsward_Chapter_16",
+		"pageNumber": 3,
+		"title": "06_Windsward_Title_16_03",
+		"topic": "Topic_06_Windsward",
+		"u": 1626740018317,
+		"x": 9568.741,
+		"y": 2653.893
+	},
+	{
+		"body": "04_Everfall_Body_16_02",
+		"chapter": "06_Windsward_Chapter_16",
+		"pageNumber": 2,
+		"title": "04_Everfall_Title_16_02",
+		"topic": "Topic_06_Windsward",
+		"u": 1626740060250,
+		"x": 9630.513,
+		"y": 2730.667
+	},
+	{
+		"body": "06_Windsward_Body_16_01",
+		"chapter": "06_Windsward_Chapter_16",
+		"pageNumber": 1,
+		"title": "06_Windsward_Title_16_01",
+		"topic": "Topic_06_Windsward",
+		"u": 1626740091808,
+		"x": 9308.693,
+		"y": 2377.851
+	}
+]

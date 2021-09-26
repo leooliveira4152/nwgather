@@ -1,0 +1,32 @@
+[
+	{
+		"body": "04_Everfall_Body_19_03",
+		"chapter": "04_Everfall_Chapter_19",
+		"pageNumber": 3,
+		"title": "04_Everfall_Title_19_03",
+		"topic": "Topic_04_Everfall",
+		"u": 1626739908650,
+		"x": 8940.7,
+		"y": 4204.419
+	},
+	{
+		"body": "04_Everfall_Body_19_02",
+		"chapter": "04_Everfall_Chapter_19",
+		"pageNumber": 2,
+		"title": "04_Everfall_Title_19_02",
+		"topic": "Topic_04_Everfall",
+		"u": 1626739939185,
+		"x": 9171.219,
+		"y": 4883.037
+	},
+	{
+		"body": "04_Everfall_Body_19_01",
+		"chapter": "04_Everfall_Chapter_19",
+		"pageNumber": 1,
+		"title": "04_Everfall_Title_19_01",
+		"topic": "Topic_04_Everfall",
+		"u": 1626740598220,
+		"x": 9137.176,
+		"y": 4996.208
+	}
+]

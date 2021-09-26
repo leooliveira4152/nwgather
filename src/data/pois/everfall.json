@@ -1,0 +1,273 @@
+[
+	{
+		"icon": "township",
+		"name": "ui_poi_town_everfall",
+		"u": 1621100829244,
+		"x": 8895.444,
+		"y": 4214.787
+	},
+	{
+		"icon": "ancient_lookout",
+		"name": "ui_poi_ancient_lookout_40109",
+		"u": 1621429730727,
+		"x": 8613.591,
+		"y": 3786.646
+	},
+	{
+		"icon": "fortress",
+		"name": "ui_poi_fort_everfall",
+		"u": 1621093046877,
+		"x": 8459.25,
+		"y": 4880.25
+	},
+	{
+		"icon": "wolf_den",
+		"name": "ui_poi_wolf_den_40230",
+		"u": 1621243506433,
+		"x": 8570.5,
+		"y": 4259
+	},
+	{
+		"icon": "ancient_tower",
+		"name": "ui_poi_ancient_tower_40219",
+		"u": 1621261433522,
+		"x": 8916.25,
+		"y": 4436.5
+	},
+	{
+		"icon": "ancient_lookout",
+		"name": "ui_poi_ancient_lookout_40110",
+		"u": 1621325081864,
+		"x": 8622,
+		"y": 4050.5
+	},
+	{
+		"icon": "ancient_tower",
+		"name": "ui_poi_ancient_tower_40218",
+		"u": 1621260555870,
+		"x": 9115.75,
+		"y": 4499.25
+	},
+	{
+		"icon": "ancient_tower",
+		"name": "ui_poi_ancient_tower_40217",
+		"u": 1621257410887,
+		"x": 9400.5,
+		"y": 4514.25
+	},
+	{
+		"icon": "ancient_tower",
+		"name": "ui_poi_ancient_tower_40215",
+		"u": 1621410572365,
+		"x": 9778.5,
+		"y": 4231.5
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_ancient_bridge_40126",
+		"u": 1621411092070,
+		"x": 9703.5,
+		"y": 3781.75
+	},
+	{
+		"icon": "ancient_tower",
+		"name": "ui_poi_ancient_tower_40220",
+		"x": 8724.75,
+		"y": 4258
+	},
+	{
+		"icon": "abandoned_farm_village",
+		"name": "ui_poi_witheredfarm_3_40149",
+		"u": 1621325376241,
+		"x": 8689.631,
+		"y": 4014.57
+	},
+	{
+		"icon": "watchtower",
+		"name": "ui_poi_watchtower_32_30220",
+		"u": 1621245891981,
+		"x": 8099.5,
+		"y": 4525.25
+	},
+	{
+		"icon": "ancient_tower",
+		"name": "ui_poi_ancient_tower_40216",
+		"u": 1621275602623,
+		"x": 9619.2,
+		"y": 4419.5
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_ancient_ruins_40223",
+		"u": 1621253004350,
+		"x": 9516.989,
+		"y": 4475.376
+	},
+	{
+		"icon": "abandoned_farm_village",
+		"name": "ui_poi_abandoned_farm_village_40201",
+		"u": 1621344461397,
+		"x": 9439.552,
+		"y": 4894.107
+	},
+	{
+		"icon": "abandoned_fishing_village",
+		"name": "ui_poi_abandoned_fishing_village_40246",
+		"u": 1621344463818,
+		"x": 9170.362,
+		"y": 4929.317
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_abandoned_village_40204",
+		"u": 1621328233640,
+		"x": 8822.435,
+		"y": 5121.529
+	},
+	{
+		"icon": "mine",
+		"name": "ui_poi_mine_40203",
+		"u": 1621328886484,
+		"x": 8687.075,
+		"y": 5137.875
+	},
+	{
+		"icon": "cave",
+		"name": "ui_poi_blighted_cave_40224",
+		"u": 1621330796409,
+		"x": 8671.343,
+		"y": 5335.104
+	},
+	{
+		"icon": "cave",
+		"name": "ui_poi_blighted_cave_40247",
+		"u": 1621334562291,
+		"x": 8538.841,
+		"y": 5352.497
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_undeadbastion_40227",
+		"u": 1621281936579,
+		"x": 9955.479,
+		"y": 4505.153
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_undeadbastion_40207",
+		"u": 1621319033425,
+		"x": 10065.767,
+		"y": 4264.477
+	},
+	{
+		"icon": "ancient_lookout",
+		"name": "ui_poi_ancient_lookout_40114",
+		"x": 9885.5,
+		"y": 4011
+	},
+	{
+		"icon": "ancient_lookout",
+		"name": "ui_poi_ancient_lookout_40113",
+		"u": 1621412626282,
+		"x": 9882.25,
+		"y": 3746.5
+	},
+	{
+		"icon": "bear_den",
+		"name": "ui_poi_bear_den_40138",
+		"u": 1621425186430,
+		"x": 10139.698,
+		"y": 3684.441
+	},
+	{
+		"icon": "ancient_lookout",
+		"name": "ui_poi_ancient_lookout_40112",
+		"u": 1621413158756,
+		"x": 9770.75,
+		"y": 3503
+	},
+	{
+		"icon": "ancient_ruins",
+		"name": "ui_poi_ancient_ruins_40123",
+		"u": 1621113464328,
+		"x": 9792.834,
+		"y": 3222.336
+	},
+	{
+		"icon": "cave",
+		"name": "ui_poi_drownedcavern_30219",
+		"u": 1621246779055,
+		"x": 8050,
+		"y": 4750
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_drownedshipwreck_ef_2",
+		"u": 1621246013895,
+		"x": 7980.576,
+		"y": 4580
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_drownedshipwreck_ef_3_30217",
+		"u": 1621246083175,
+		"x": 7820,
+		"y": 4578.581
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_drownedshipwreck_ef_4",
+		"u": 1621245648947,
+		"x": 7861.212,
+		"y": 4450
+	},
+	{
+		"icon": "abandoned_village",
+		"name": "ui_poi_nettlerest_graveyard_40151",
+		"u": 1621423954417,
+		"x": 9971.545,
+		"y": 3230
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_undeadbastion_50232",
+		"u": 1621323317101,
+		"x": 10404,
+		"y": 4311.5
+	},
+	{
+		"icon": "shattered_obelisk",
+		"name": "ui_poi_shattered_obelisk_40116",
+		"u": 1621168372087,
+		"x": 9303.155,
+		"y": 3827.208
+	},
+	{
+		"icon": "abandoned_farm_village",
+		"name": "ui_poi_abandoned_village_40206",
+		"u": 1621235921460,
+		"x": 8626.476,
+		"y": 4433.925
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_drownedshipwreck_ef_1_30215",
+		"u": 1621246567116,
+		"x": 7932.271,
+		"y": 4692.689
+	},
+	{
+		"icon": "wolf_den",
+		"name": "ui_poi_wolf_den_40226",
+		"u": 1621256646204,
+		"x": 9281.394,
+		"y": 4500
+	},
+	{
+		"icon": "abandoned_farm_village",
+		"name": "ui_poi_haunted_village_40266",
+		"u": 1621343929444,
+		"x": 9761.34,
+		"y": 4663.544
+	}
+]

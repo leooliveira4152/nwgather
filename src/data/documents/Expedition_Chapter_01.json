@@ -1,0 +1,179 @@
+[
+	{
+		"body": "Expedition_Body_01_01",
+		"chapter": "Expedition_Chapter_01",
+		"pageNumber": 1,
+		"title": "Expedition_Title_01_01",
+		"topic": "Topic_00_Aeternum",
+		"u": 1622927807893,
+		"x": 9540,
+		"y": 267
+	},
+	{
+		"body": "Expedition_Body_01_03",
+		"chapter": "Expedition_Chapter_01",
+		"pageNumber": 3,
+		"title": "Expedition_Title_01_03",
+		"topic": "Topic_00_Aeternum",
+		"u": 1621246677042,
+		"x": 7940.17,
+		"y": 4795.2
+	},
+	{
+		"body": "00_Aeternum_Body_05_13",
+		"chapter": "Expedition_Chapter_01",
+		"pageNumber": 13,
+		"title": "00_Aeternum_Title_05_13",
+		"topic": "Topic_00_Aeternum",
+		"u": 1622928142084,
+		"x": 7029.656,
+		"y": 264.21
+	},
+	{
+		"body": "00_Aeternum_Body_05_12",
+		"chapter": "Expedition_Chapter_01",
+		"pageNumber": 12,
+		"title": "00_Aeternum_Title_05_12",
+		"topic": "Topic_00_Aeternum",
+		"u": 1622928137666,
+		"x": 7766.367,
+		"y": 134.432
+	},
+	{
+		"body": "00_Aeternum_Body_05_05",
+		"chapter": "Expedition_Chapter_01",
+		"pageNumber": 5,
+		"title": "00_Aeternum_Title_05_05",
+		"topic": "Topic_00_Aeternum",
+		"u": 1622927904888,
+		"x": 7692,
+		"y": 846
+	},
+	{
+		"body": "Expedition_Body_01_02",
+		"chapter": "Expedition_Chapter_01",
+		"pageNumber": 2,
+		"title": "Expedition_Title_01_02",
+		"topic": "Topic_00_Aeternum",
+		"u": 1621246146808,
+		"x": 7849.14,
+		"y": 4589.787
+	},
+	{
+		"body": "00_Aeternum_Body_05_10",
+		"chapter": "Expedition_Chapter_01",
+		"pageNumber": 10,
+		"title": "00_Aeternum_Title_05_10",
+		"topic": "Topic_00_Aeternum",
+		"u": 1621610132318,
+		"x": 7743.79,
+		"y": 4391.639
+	},
+	{
+		"body": "00_Aeternum_Body_05_07",
+		"chapter": "Expedition_Chapter_01",
+		"pageNumber": 7,
+		"title": "00_Aeternum_Title_05_07",
+		"topic": "Topic_00_Aeternum",
+		"u": 1621959421114,
+		"x": 7374.694,
+		"y": 3381.253
+	},
+	{
+		"body": "00_Aeternum_Body_05_11",
+		"chapter": "Expedition_Chapter_01",
+		"pageNumber": 11,
+		"title": "00_Aeternum_Title_05_11",
+		"topic": "Topic_00_Aeternum",
+		"u": 1622032774572,
+		"x": 6787.121,
+		"y": 3324.736
+	},
+	{
+		"body": "00_Aeternum_Body_05_04",
+		"chapter": "Expedition_Chapter_01",
+		"pageNumber": 4,
+		"title": "00_Aeternum_Title_05_04",
+		"topic": "Topic_00_Aeternum",
+		"x": 9046.019,
+		"y": 1925.182
+	},
+	{
+		"body": "00_Aeternum_Body_05_06",
+		"chapter": "Expedition_Chapter_01",
+		"pageNumber": 6,
+		"title": "00_Aeternum_Title_05_06",
+		"topic": "Topic_00_Aeternum",
+		"u": 1626988062357,
+		"x": 6189.789,
+		"y": 3217.975
+	},
+	{
+		"body": "00_Aeternum_Body_05_09",
+		"chapter": "Expedition_Chapter_01",
+		"pageNumber": 9,
+		"title": "00_Aeternum_Title_05_09",
+		"topic": "Topic_00_Aeternum",
+		"u": 1624105089209,
+		"x": 9651.938,
+		"y": 2083.442
+	},
+	{
+		"body": "00_Aeternum_Body_05_08",
+		"chapter": "Expedition_Chapter_01",
+		"pageNumber": 8,
+		"title": "00_Aeternum_Title_05_08",
+		"topic": "Topic_00_Aeternum",
+		"x": 10134.759,
+		"y": 1405.187
+	},
+	{
+		"body": "00_Aeternum_Body_05_14",
+		"chapter": "Expedition_Chapter_01",
+		"pageNumber": 14,
+		"title": "00_Aeternum_Title_05_14",
+		"topic": "Topic_00_Aeternum",
+		"x": 9863.14,
+		"y": 2652.009
+	},
+	{
+		"body": "00_Aeternum_Body_05_15",
+		"chapter": "Expedition_Chapter_01",
+		"pageNumber": 15,
+		"title": "00_Aeternum_Title_05_15",
+		"topic": "Topic_00_Aeternum",
+		"u": 1624270530848,
+		"x": 12604.307,
+		"y": 4191.739
+	},
+	{
+		"body": "00_Aeternum_Body_05_16",
+		"chapter": "Expedition_Chapter_01",
+		"pageNumber": 16,
+		"title": "00_Aeternum_Title_05_16",
+		"topic": "Topic_00_Aeternum",
+		"u": 1624270482406,
+		"x": 12836.73,
+		"y": 4298.979
+	},
+	{
+		"body": "00_Aeternum_Body_05_17",
+		"chapter": "Expedition_Chapter_01",
+		"pageNumber": 17,
+		"title": "00_Aeternum_Title_05_17",
+		"topic": "Topic_00_Aeternum",
+		"u": 1624270633319,
+		"x": 13007.5,
+		"y": 4233.995
+	},
+	{
+		"body": "00_Aeternum_Body_05_18",
+		"chapter": "Expedition_Chapter_01",
+		"pageNumber": 18,
+		"title": "00_Aeternum_Title_05_18",
+		"topic": "Topic_00_Aeternum",
+		"u": 1624270666328,
+		"x": 13081.89,
+		"y": 4333.312
+	}
+]

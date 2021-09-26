@@ -1,0 +1,32 @@
+[
+	{
+		"body": "06_Windsward_Body_12_01",
+		"chapter": "06_Windsward_Chapter_12",
+		"pageNumber": 1,
+		"title": "06_Windsward_Title_12_01",
+		"topic": "Topic_06_Windsward",
+		"u": 1626734508182,
+		"x": 9692.937,
+		"y": 2162.576
+	},
+	{
+		"body": "06_Windsward_Body_12_02",
+		"chapter": "06_Windsward_Chapter_12",
+		"pageNumber": 2,
+		"title": "06_Windsward_Title_12_02",
+		"topic": "Topic_06_Windsward",
+		"u": 1626734542829,
+		"x": 9702.405,
+		"y": 2133.003
+	},
+	{
+		"body": "06_Windsward_Body_12_03",
+		"chapter": "06_Windsward_Chapter_12",
+		"pageNumber": 3,
+		"title": "06_Windsward_Title_12_03",
+		"topic": "Topic_06_Windsward",
+		"u": 1626734583304,
+		"x": 9673.404,
+		"y": 2105.89
+	}
+]

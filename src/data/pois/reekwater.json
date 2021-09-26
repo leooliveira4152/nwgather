@@ -1,0 +1,170 @@
+[
+	{
+		"icon": "fortress",
+		"name": "ui_poi_fort_reekwater",
+		"u": 1621192900646,
+		"x": 10987.25,
+		"y": 2355.75
+	},
+	{
+		"icon": "township",
+		"name": "ui_poi_town_reekwater",
+		"u": 1621093053578,
+		"x": 10987,
+		"y": 3290.75
+	},
+	{
+		"icon": "abandoned_fishing_village",
+		"name": "ui_poi_abandoned_fishing_village_50106",
+		"u": 1624030544043,
+		"x": 10408,
+		"y": 3357.25
+	},
+	{
+		"icon": "ancient_temple_sm",
+		"name": "ui_poi_Flooded_Ruins_50125",
+		"u": 1627745211385,
+		"x": 10764,
+		"y": 3192.5
+	},
+	{
+		"icon": "cave",
+		"name": "ui_poi_Lion_Den_50123",
+		"u": 1624031211896,
+		"x": 10446.5,
+		"y": 3122.25
+	},
+	{
+		"icon": "angryearth_village",
+		"name": "ui_poi_Overgrown_Village_50133",
+		"u": 1624032243612,
+		"x": 10551.75,
+		"y": 2882.5
+	},
+	{
+		"icon": "cave",
+		"name": "ui_poi_Lion_Den_50135",
+		"u": 1624033488643,
+		"x": 10302.5,
+		"y": 2747.25
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_shipwreck_50101",
+		"u": 1624034123550,
+		"x": 10554.75,
+		"y": 2133.75
+	},
+	{
+		"icon": "ancient_temple_lg",
+		"name": "ui_poi_Hilltop_Ruins_50118",
+		"u": 1624037417299,
+		"x": 10636.5,
+		"y": 3858.75
+	},
+	{
+		"icon": "angryearth_village",
+		"name": "ui_poi_Glowing_Swamp_50124",
+		"u": 1624039126309,
+		"x": 11241.75,
+		"y": 3497.75
+	},
+	{
+		"icon": "angryearth_ruins_elite",
+		"name": "ui_poi_AE_Elite_50119",
+		"u": 1624039571532,
+		"x": 10850.75,
+		"y": 3841.75
+	},
+	{
+		"icon": "bear_den",
+		"name": "ui_poi_cave_50214",
+		"u": 1624040331552,
+		"x": 10734.75,
+		"y": 4233.25
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_shipwreck_50104",
+		"u": 1624046052041,
+		"x": 12025,
+		"y": 3576.5
+	},
+	{
+		"icon": "cave",
+		"name": "ui_poi_Lost_Cave_50121",
+		"u": 1624046524344,
+		"x": 11836.75,
+		"y": 3733.25
+	},
+	{
+		"icon": "abandoned_fishing_village",
+		"name": "ui_poi_Bayou_Village_50126",
+		"u": 1624047473006,
+		"x": 11547,
+		"y": 3314
+	},
+	{
+		"icon": "angryearth_cave",
+		"name": "ui_poi_AE_Cave_50120",
+		"u": 1624047515832,
+		"x": 11620,
+		"y": 3665.25
+	},
+	{
+		"icon": "ancient_temple_sm",
+		"name": "ui_poi_Flooded_Ruins_50127",
+		"u": 1624047857877,
+		"x": 11837.25,
+		"y": 3172.25
+	},
+	{
+		"icon": "ancient_temple_sm",
+		"name": "ui_poi_Lighthouse_Ruins_50128",
+		"u": 1624048081035,
+		"x": 11998.75,
+		"y": 2923.25
+	},
+	{
+		"icon": "ancient_temple_sm",
+		"name": "ui_poi_Lighthouse_Base_50129",
+		"u": 1624048929570,
+		"x": 11989.75,
+		"y": 2705.5
+	},
+	{
+		"icon": "abandoned_fishing_village_elite",
+		"name": "ui_poi_Lost_Elite_City_50130",
+		"u": 1624049181857,
+		"x": 11421.25,
+		"y": 2994
+	},
+	{
+		"icon": "shipwreck",
+		"name": "ui_poi_shipwreck_50102",
+		"u": 1624050010529,
+		"x": 11206.75,
+		"y": 2723.25
+	},
+	{
+		"icon": "cave",
+		"name": "ui_poi_cave_50213",
+		"u": 1624050052366,
+		"x": 10725.594,
+		"y": 4462.989
+	},
+	{
+		"icon": "angryearth_village",
+		"name": "ui_poi_Glowing_Swamp_50132",
+		"u": 1624050132150,
+		"x": 10967,
+		"y": 2735
+	},
+	{
+		"icon": "abandoned_farm_village",
+		"name": "ui_poi_Ghost_Town_50122",
+		"u": 1624291012267,
+		"x": 11868.75,
+		"y": 3934.75
+	}
+]
