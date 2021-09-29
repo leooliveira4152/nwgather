@@ -63,53 +63,105 @@
                 @change="updateItems(true, false, false)"
               ></el-cascader>
             </el-row>
-            <!-- BUTTONS -->
-            <el-row style="margin-top:50px">
-              <!-- UPDATE ITEMS BUTTON -->
-              <el-button :disabled="radarOn" @click="updateItems()"
-                >Get items</el-button
-              >
-              <!-- OPEN DETECTION SETTINGS BUTTON -->
-              <el-button :disabled="radarOn" @click="openscreenConfig()"
-                >Detection settings</el-button
-              >
-            </el-row>
-            <!-- AUTO RADAR FREQUENCY -->
-            <el-row style="margin-top:50px">
-              Radar frequency (s):<br /><el-input-number
-                v-model="radarFrequency"
-                size="small"
-                :min="0"
-                :max="60"
-                :step="0.1"
-              ></el-input-number>
-            </el-row>
-            <!-- AUTO RADAR ON/OFF SWITCH -->
-            <el-row type="flex" align="middle" justify="center">
+            <!-- MANUAL INPUT SWITCH -->
+            <el-row
+              type="flex"
+              align="middle"
+              justify="center"
+              style="margin-top:50px"
+            >
               <el-col :span="14">
-                Turn on auto-radar
+                Manual input
               </el-col>
               <el-col :span="3">
                 <el-switch
-                  v-model="radarOn"
+                  v-model="manualInput"
                   active-color="#13ce66"
                   inactive-color="#3B3B3B"
-                  @change="radarProcess()"
                 >
                 </el-switch>
               </el-col>
             </el-row>
-            <!-- AUTO RADAR INFO MESSAGES -->
-            <el-row style="font-size:16px">
-              <div v-if="locationMessage">
-                [ {{ locationMessage.replace(/,/g, ", ") }} ]
+            <!-- MANUAL INPUT -->
+            <div v-if="manualInput">
+              <el-row type="flex" align="middle" justify="center">
+                <!-- X POSITION -->
+                <el-col :span="8"
+                  >X Position:<br /><el-input
+                    v-model="currentPos[0]"
+                    size="small"
+                  ></el-input
+                ></el-col>
+                <el-col :span="2"></el-col>
+                <!-- Y POSITION -->
+                <el-col :span="8"
+                  >Y Position:<br /><el-input
+                    v-model="currentPos[1]"
+                    size="small"
+                  ></el-input
+                ></el-col>
+              </el-row>
+            </div>
+            <!-- BUTTONS -->
+            <el-row>
+              <div v-if="!manualInput">
+                <!-- UPDATE ITEMS BUTTON -->
+                <el-button :disabled="radarOn" @click="updateItems()"
+                  >Get items</el-button
+                ><!-- OPEN DETECTION SETTINGS BUTTON -->
+                <el-button :disabled="radarOn" @click="openscreenConfig()"
+                  >Detection settings</el-button
+                >
               </div>
-              <div v-if="locationErrorMessage" style="color:red">
-                {{ locationErrorMessage.split("\n")[0] }}<br />{{
-                  locationErrorMessage.split("\n")[1]
-                }}
+              <div v-else>
+                <!-- UPDATE ITEMS BUTTON -->
+                <el-button
+                  :disabled="radarOn"
+                  @click="updateItems(true, true, false)"
+                  style="margin-top:20px"
+                  >Get items</el-button
+                >
               </div>
             </el-row>
+
+            <div v-if="!manualInput">
+              <!-- AUTO RADAR FREQUENCY -->
+              <el-row style="margin-top:50px">
+                Radar frequency (s):<br /><el-input-number
+                  v-model="radarFrequency"
+                  size="small"
+                  :min="0"
+                  :max="60"
+                  :step="0.1"
+                ></el-input-number>
+              </el-row>
+              <!-- AUTO RADAR ON/OFF SWITCH -->
+              <el-row type="flex" align="middle" justify="center">
+                <el-col :span="14">
+                  Turn on auto-radar
+                </el-col>
+                <el-col :span="3">
+                  <el-switch
+                    v-model="radarOn"
+                    active-color="#13ce66"
+                    inactive-color="#3B3B3B"
+                    @change="radarProcess()"
+                  >
+                  </el-switch>
+                </el-col>
+              </el-row>
+              <!-- AUTO RADAR INFO MESSAGES -->
+              <el-row style="font-size:16px">
+                <div v-if="locationMessage">
+                  [ {{ locationMessage.replace(/,/g, ", ") }} ]
+                </div>
+                <div v-if="locationErrorMessage" style="color:red">
+                  {{ locationErrorMessage.split("\n")[0] }}<br />{{
+                    locationErrorMessage.split("\n")[1]
+                  }}
+                </div>
+              </el-row>
+            </div>
           </el-col>
           <!-- RADAR DISPLAY -->
           <el-col :xs="20" :sm="14" :md="14" :lg="12" :xl="12" align="middle">
@@ -521,6 +573,7 @@ export default {
       mainScreen: true,
       loadingRadar: true,
       screenConfig: false,
+      manualInput: false,
       screenSettings: {},
       ocrSettings: {},
       userSettings: {},
@@ -753,6 +806,7 @@ export default {
       // this is the function that does all the math to get the desired items
       var self = this;
       if (!self.allItems) await self.getAllItems();
+      if (self.currentPos.length == 2) self.currentPos.push(0);
       if (self.currentPos.length != 3) {
         if (errorMsg) self.error("Invalid coordinates");
         return;
