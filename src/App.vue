@@ -732,7 +732,7 @@ export default {
           radarCoordinates = [
             (item.realCoordinates[0] - self.currentPos[0]) * resizer +
               self.stageSize / 2,
-            (item.realCoordinates[1] - self.currentPos[1]) * resizer +
+            -(item.realCoordinates[1] - self.currentPos[1]) * resizer +
               self.stageSize / 2,
           ];
           item.radarCoordinates = radarCoordinates;

@@ -45,7 +45,7 @@ const commonFixes = async (text) => {
 };
 
 module.exports = async (params = {}) => {
-  return new Promise(async (resolve, reject) => {
+  var coordinates = await new Promise(async (resolve, reject) => {
     try {
       var config = {
         lang: "eng",
@@ -73,4 +73,18 @@ module.exports = async (params = {}) => {
       resolve([]);
     }
   });
+  if (coordinates.length != 3) return [];
+  else {
+    doX = true;
+    doY = true;
+    while (doX) {
+      if (coordinates[0] >= 14000) coordinates[0] = coordinates[0] / 10;
+      else doX = false;
+    }
+    while (doY) {
+      if (coordinates[1] >= 10000) coordinates[1] = coordinates[1] / 10;
+      else doY = false;
+    }
+    return coordinates;
+  }
 };
