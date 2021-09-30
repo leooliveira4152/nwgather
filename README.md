@@ -7,7 +7,7 @@ This things basically reads your New World coordinates and list all gatherable r
 ## Installation
 
 You'll need to install two things:
-- [Terreract](https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0-alpha.20210811.exe) (to visually identify coordinates)
+- [Tesseract](https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0-alpha.20210811.exe) (to visually identify coordinates)
 - [Node.js](https://nodejs.org/dist/v14.18.0/node-v14.18.0-x64.msi) (to run the code)
 
 You'll need to add tesseract to environment variables too. If you don't know how to do it, check this [video](https://www.youtube.com/watch?v=2kWvk4C1pMo) (from 0:00 to around 1:50)
